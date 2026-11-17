@@ -1,0 +1,768 @@
+# Refero styles DESIGN.md (764 files)
+
+Source: https://refero.design/styles
+
+- [11x — earthbound futures](11x.ai-DESIGN.md) — https://refero.design/styles/0327098c-2771-4e46-88a0-055e563435c3
+- [14islands — split-scale digital craft](14islands.com-DESIGN.md) — https://refero.design/styles/dc55b73d-7867-4af0-a143-f8f63f212fcd
+- [1X — domestic cinematic engineering](1x.tech-DESIGN.md) — https://refero.design/styles/55fdc160-3aec-4a0f-9e32-cc652570c077
+- [A Better Lou — sunlit strength, amber medicine](abetterlou.com-DESIGN.md) — https://refero.design/styles/aeafad77-51f2-42c5-8d9a-a0e4d8a314a0
+- [a16z — documentary warmth, glass hardware](a16z.com-DESIGN.md) — https://refero.design/styles/accbf633-045b-469d-9749-94e9100522e1
+- [A24 — cinema meets the index](a24films.com-DESIGN.md) — https://refero.design/styles/cf893ab6-c14d-4feb-b7cd-3048a9d55b0c
+- [Aaply — clay toys meet workbench](aaply.app-DESIGN.md) — https://refero.design/styles/f9d0f95c-38ee-4840-9e1c-43202705bfb9
+- [Aaron Poe & Co — stacked work, tight words](aaronpoeandco.com-DESIGN.md) — https://refero.design/styles/f4588e8b-e74b-4003-a747-0a96b1f58954
+- [Aaru — worlds in motion](aaru.com-DESIGN.md) — https://refero.design/styles/bb462d75-cf83-443a-94cb-499fc9eabee4
+- [Aave — soft sculpted confidence](aave.com-DESIGN.md) — https://refero.design/styles/aa85adce-bc09-4e71-a487-80bc3bc4ac17
+- [Aboard — editorial warmth, operational grit](aboard.com-DESIGN.md) — https://refero.design/styles/4b3e6b4b-294b-4f9c-8cca-d2468522b749
+- [Accept & Proceed — staggered cultural catalogue](acceptandproceed.com-DESIGN.md) — https://refero.design/styles/02d34b64-6bce-4c42-91fd-0a896a7f0106
+- [Acne Studios — monumental material catalogue](acnestudios.com-DESIGN.md) — https://refero.design/styles/b4c6acb9-4347-4d42-a22e-0df42b08daea
+- [Ada — intelligence through smoked glass](ada.cx-DESIGN.md) — https://refero.design/styles/242e4942-48a9-4f6b-9e3d-cd66f08dc5b1
+- [Adaline — pastoral machines](adaline.ai-DESIGN.md) — https://refero.design/styles/b96d8596-d1a8-49c0-a5ed-788616e863d2
+- [Adaptive ML — editorial spectrum engineering](adaptive-ml.com-DESIGN.md) — https://refero.design/styles/e77a11b3-2510-41ae-8485-e903b2e71fab
+- [Adnaut — luminous orbital machinery](adnaut.digital-DESIGN.md) — https://refero.design/styles/4f1cf87c-7749-4d0d-b14c-aa42138a3982
+- [Aer — urban utility in motion](aersf.com-DESIGN.md) — https://refero.design/styles/45731954-2570-41b7-a018-fc9de6037a46
+- [Affinity — editorial type at play](affinity.studio-DESIGN.md) — https://refero.design/styles/810c259a-6768-4d2f-b345-997825e08d41
+- [AgentQL — luminous developer theatre](agentql.com-DESIGN.md) — https://refero.design/styles/ff71a207-3cb0-4a89-842f-fd1b802190cc
+- [Agility Robotics — fieldwork meets cinema](agilityrobotics.com-DESIGN.md) — https://refero.design/styles/3b767fb3-c1b6-4315-8a7e-b462541bfaaa
+- [Agiloft — intelligence in flowing lines](agiloft.com-DESIGN.md) — https://refero.design/styles/9512f2eb-9583-4f58-a1d8-3b50644412f5
+- [ai.work — alpine operational theater](ai.work-DESIGN.md) — https://refero.design/styles/53894b89-1fdf-4b01-ac07-0d93cfe74c36
+- [Aira — boardroom cinema meets paper](aira.app-DESIGN.md) — https://refero.design/styles/86c3344b-3120-4f73-bdde-0091d04c038d
+- [Airbnb — human stories, miniature worlds](airbnb.com-DESIGN.md) — https://refero.design/styles/2b556363-5cb0-443f-a550-7273d108fea9
+- [Airbnb.org — human stories, sweeping hearts](airbnb.org-DESIGN.md) — https://refero.design/styles/9d21ac66-a7dd-4f87-8467-103150923062
+- [Airtable — systems with vivid edges](airtable.com-DESIGN.md) — https://refero.design/styles/7b56edce-7cfb-4d72-9dba-e9ba3e62e927
+- [Airtree — paper, people, orange seeds](airtree.vc-DESIGN.md) — https://refero.design/styles/18b1a800-3785-4b9f-8243-1a826fce59f4
+- [Aker — landscapes and ledgers](akercompanies.com-DESIGN.md) — https://refero.design/styles/9b254d6b-c287-43f0-bdc3-99f61afbdac1
+- [Alison Roman — butter paper, big opinions](alisoneroman.com-DESIGN.md) — https://refero.design/styles/0ae06049-43ab-43bc-80fe-d539955a691e
+- [Allier Ho — sculpture meets italic](allierho.com-DESIGN.md) — https://refero.design/styles/236f12fa-b144-41b4-a4b4-b86e6bff8f16
+- [Alpine Bio — tactile science, dotted machinery](alpbio.com-DESIGN.md) — https://refero.design/styles/440089a1-452f-4ecb-938f-d2226f727ef5
+- [ALSO — mechanical wonder playground](ridealso.com-DESIGN.md) — https://refero.design/styles/54b7f095-0abe-4527-9116-cebfa6b25dbc
+- [Alt Studios — antithesis as architecture](alt-studios.com-DESIGN.md) — https://refero.design/styles/a75f8e56-de97-4a94-aa5c-cfae54bcbaa8
+- [Altina — heirloom technology, italic warmth](altina.co-DESIGN.md) — https://refero.design/styles/6a36b914-07b8-43ac-a2d9-fc2360d99ec9
+- [Altius Labs — ember-lit machinery](altiuslabs.xyz-DESIGN.md) — https://refero.design/styles/e04a0ef8-aa6f-4340-a252-e6a5419a0022
+- [Alveos — blue-sky human science](alveoslabs.com-DESIGN.md) — https://refero.design/styles/e6172058-f1e7-49ef-be35-b0581e8fa80c
+- [Ameba — operations in orbit](ameba.ai-DESIGN.md) — https://refero.design/styles/8a02d0fb-b1d6-432f-9a80-69f900a23b16
+- [Amie — friendly workday autopilot](amie.so-DESIGN.md) — https://refero.design/styles/e54a9e0a-a8b6-45fe-80a9-91b452a6776e
+- [amp.ai — adaptive domestic cinema](amp.ai-DESIGN.md) — https://refero.design/styles/b477778a-e4c9-44d2-9ff2-2ca1a137e8ed
+- [Amplemarket — human doodles, liquid light](amplemarket.com-DESIGN.md) — https://refero.design/styles/b36376d1-3ad3-4948-b99f-bcf6064df56c
+- [amra — luminous spheres of scale](amra.com-DESIGN.md) — https://refero.design/styles/1aa49571-031d-4cbf-bdd6-a2a341c0f45d
+- [Amrit Palace — candlelit editorial ceremony](amritpalace.com-DESIGN.md) — https://refero.design/styles/8d182d06-e744-4068-956a-a34a56e8dcd7
+- [Analogue — emotional light, tangible worlds](analogueagency.com-DESIGN.md) — https://refero.design/styles/d5e6f839-1d19-4a2a-b3d3-84cf3deb555e
+- [Analogue — objects before words](analogue.co-DESIGN.md) — https://refero.design/styles/e7657d62-2696-4fef-941a-8b3c05f7a575
+- [Analogue — optical theatre, editorial soul](analogueshop.com-DESIGN.md) — https://refero.design/styles/f486f1c0-6b34-4a97-a0e0-2b15eb591654
+- [André Cândido — elegant type, playful objects](andre-candido.com-DESIGN.md) — https://refero.design/styles/caa8bbf3-75c1-4687-8fc8-0a1f5c5366d7
+- [AngelList — lavender over deep teal](angellist.com-DESIGN.md) — https://refero.design/styles/7a942b05-d2d8-4637-8cf0-4142000a83a2
+- [Aninix — playful output gallery](aninix.com-DESIGN.md) — https://refero.design/styles/b2ebb283-7df9-4d6e-88aa-41bf4a6f1b97
+- [Ankar — scholarship meets spectral fields](ankar.ai-DESIGN.md) — https://refero.design/styles/e1590395-c7a2-471d-a6ba-327e785132d5
+- [Antimetal — editorial systems in orbit](antimetal.com-DESIGN.md) — https://refero.design/styles/448e303d-7d89-4c38-ab62-bfe5bac45d92
+- [Apollo Workspace — brick, linen, belonging](apolloworkspace.com-DESIGN.md) — https://refero.design/styles/3d15aa02-7b91-4262-bf45-a7ec7630e51d
+- [Apollo — serif meets solar energy](apollo.io-DESIGN.md) — https://refero.design/styles/3c283aa7-9ba7-493f-8953-298a81a6e0f0
+- [Apple — hardware as theater](apple.com-DESIGN.md) — https://refero.design/styles/c4475712-be5d-45e8-bd66-f6064cf2ed54
+- [Applied Labs — streetlight and systems](appliedlabs.ai-DESIGN.md) — https://refero.design/styles/de6abbf0-200e-4f5c-b9d6-2ad597be01fa
+- [Aqua Voice — glass over water](aquavoice.com-DESIGN.md) — https://refero.design/styles/b1700dca-577f-4f3c-8ea2-1ad691f21ddb
+- [Arc — scalloped digital optimism](arc.net-DESIGN.md) — https://refero.design/styles/390f9e9f-6beb-4429-83af-1f5bbee47abe
+- [Arcade — fluorescent product playground](arcade.software-DESIGN.md) — https://refero.design/styles/a6142472-8b11-4320-ae8d-bd3d85e40691
+- [Arctic Design Range — tactile editorial collage](arcticdesignrange.com-DESIGN.md) — https://refero.design/styles/c5c5eaa0-2ba8-4ec8-aaa4-394c0a0b4ea0
+- [AREA 17 — craft at cinematic scale](area17.com-DESIGN.md) — https://refero.design/styles/f06ec29e-dcbf-47b9-be12-e3e3f95aa6d2
+- [Arrakis — fieldwork meets cosmic machinery](arrakis.tech-DESIGN.md) — https://refero.design/styles/ee52d703-ccbc-4a8e-a021-2d23c7727ff1
+- [Arrows — ember on ruled paper](arrows.to-DESIGN.md) — https://refero.design/styles/043ac099-d036-4ce5-946b-f3a4be0a0c89
+- [Art + Commerce — image-led editorial index](artandcommerce.com-DESIGN.md) — https://refero.design/styles/6195f20f-2706-4548-a0e0-4f3a2fa92cbf
+- [Artboard Studio — pastel stages, electric details](artboard.studio-DESIGN.md) — https://refero.design/styles/8112b14c-5e3d-407c-9ba1-69c92d465fc2
+- [arte* — fieldwork meets pop](makearte.ca-DESIGN.md) — https://refero.design/styles/ce3c166d-924c-4506-9d45-99bb3c52c70f
+- [Arva — fieldwork meets editorial](arva.com-DESIGN.md) — https://refero.design/styles/cc2b9ffb-249e-454f-983c-cd0313899753
+- [Asana — connected work, playful agents](asana.com-DESIGN.md) — https://refero.design/styles/cc4a63c8-2160-4006-8b5e-b70c9476b3da
+- [Aside — cloudlit working surfaces](aside.com-DESIGN.md) — https://refero.design/styles/ba54c7df-aaa2-4c67-8c3b-98165133574d
+- [Assurestor — olive and electric assurance](assurestor.com-DESIGN.md) — https://refero.design/styles/ebd3cfa6-b504-4ae1-9e2d-4d83dab1746a
+- [Atlantic — signals from the unknown](atlantic.vc-DESIGN.md) — https://refero.design/styles/f3066689-a5ff-445c-be3c-0cfc732e5fb3
+- [Atlas Motion — industrial romanticism](atlasmotion.com-DESIGN.md) — https://refero.design/styles/2a373e2f-3787-4334-af09-6f63ece6c339
+- [Atlas — reflected worlds of access](atlascard.com-DESIGN.md) — https://refero.design/styles/6a12210f-e910-4d33-9788-ed039660beb0
+- [Atoms — earthbound industrial ambition](atoms.co-DESIGN.md) — https://refero.design/styles/ee7466d4-ab5c-47db-ad4d-fc71c908ae38
+- [Atoms — orbiting possibilities](atoms.dev-DESIGN.md) — https://refero.design/styles/1322772d-7d06-4f98-a231-253357a2b4d0
+- [Attio — luminous systems on rails](attio.com-DESIGN.md) — https://refero.design/styles/d2774b0c-b85e-43b6-95e2-1da6c69bb504
+- [Augen — objects emerging from darkness](augen.pro-DESIGN.md) — https://refero.design/styles/91a29339-e98b-4169-9d0d-1db906d69170
+- [August Health — circles of human optimism](augusthealth.com-DESIGN.md) — https://refero.design/styles/6d867f9d-4e96-4b05-96d0-00a3ac0f3f96
+- [Auros — liquidity in luminous green](auros.global-DESIGN.md) — https://refero.design/styles/16b5f8b3-9704-4b0f-99e3-246ea8a05dc2
+- [AuthKit — luminous circuit theater](authkit.com-DESIGN.md) — https://refero.design/styles/43118536-96b4-42d4-9311-04d098fbf7be
+- [AutoSend — pastoral software ledger](autosend.com-DESIGN.md) — https://refero.design/styles/67668eaf-6b59-426d-8a7a-276db42b791a
+- [Auxia — cobalt connected systems](auxia.io-DESIGN.md) — https://refero.design/styles/d54fb7b8-b6c3-468b-916d-d5e5ef90e391
+- [Avoice — work framed in lime](avoice.co-DESIGN.md) — https://refero.design/styles/807b2785-e55e-413d-ad06-0c2bfea8876a
+- [Awesomic — moss meets machined gloss](awesomic.com-DESIGN.md) — https://refero.design/styles/3aa10559-fa80-440f-9e98-2ada0e999cfc
+- [Axel Arigato — contact-sheet luxury](axelarigato.com-DESIGN.md) — https://refero.design/styles/3f5be2f9-aeec-420f-a7ce-650110ceb4a6
+- [Axiom — ember-lit machine room](axiom.co-DESIGN.md) — https://refero.design/styles/39f9e47d-d764-4326-b9e6-0dea27b9c2e0
+- [Baba — red linen, human relief](callbaba.com-DESIGN.md) — https://refero.design/styles/34cb4501-e5dc-4f4e-84f4-6cdaa186cd4f
+- [BAGGU — playful catalogue bluntness](baggu.com-DESIGN.md) — https://refero.design/styles/30c280f5-a8c5-4af9-a222-88c48fa36b27
+- [Bajgart Office — editorial wit on display](bajgartoffice.com-DESIGN.md) — https://refero.design/styles/a399661f-d87d-4762-926b-2f866ac7af97
+- [Bareis + Nicolaus — split-screen visual index](bareis-nicolaus.com-DESIGN.md) — https://refero.design/styles/06a4ba93-f011-4b13-8d5d-feebb72b0020
+- [Base — electric modular infrastructure](base.org-DESIGN.md) — https://refero.design/styles/4d485310-9699-417c-8651-5311348985fa
+- [Base44 — builder paper and punch](base44.com-DESIGN.md) — https://refero.design/styles/f9182759-edf7-4547-8a12-ae80ee22a04a
+- [Basecamp — paper, proof, plain talk](basecamp.com-DESIGN.md) — https://refero.design/styles/4a95ae5e-81ef-4260-82b0-db733415472c
+- [Basedash — copper dust circuitry](basedash.com-DESIGN.md) — https://refero.design/styles/9e9c0bf8-8af1-43cb-80ba-f34486e315a2
+- [BaseHub — ember-lit product workbench](basehub.com-DESIGN.md) — https://refero.design/styles/2aad71de-d753-4bf9-b48b-a409fe682d8f
+- [basement.studio — industrial type playground](basement.studio-DESIGN.md) — https://refero.design/styles/6cef939c-6b1c-412c-a98e-571218aee64e
+- [Baseten — neon infrastructure atlas](baseten.co-DESIGN.md) — https://refero.design/styles/6a3c0a8c-faf3-4366-8e96-5b16ffef09a4
+- [basic.space — objects before ornament](basic.space-DESIGN.md) — https://refero.design/styles/af7a2b92-b4cc-4aac-bf4d-9c940cf7ae25
+- [Basis Theory — machined mint infrastructure](basistheory.com-DESIGN.md) — https://refero.design/styles/b9252165-395e-42e7-8cea-a24eebb18f5c
+- [Bauhaus Clock — soft machined delight](bauhausclock.com-DESIGN.md) — https://refero.design/styles/2983f7b3-f9f0-4593-9188-1a38c0d76a4e
+- [Bear — paper with a wink](bear.app-DESIGN.md) — https://refero.design/styles/6fba537b-b43f-4312-92ef-e87f4f638033
+- [Becklyn — italic sparks after dark](becklyn.com-DESIGN.md) — https://refero.design/styles/65de3ea1-1007-4194-bf75-ffaabeaca63f
+- [Bee — everyday life, amplified](bee.computer-DESIGN.md) — https://refero.design/styles/7ec275d0-6462-433f-a068-c4ce248ccf0f
+- [beehiiv — midnight growth electric](beehiiv.com-DESIGN.md) — https://refero.design/styles/e5f3576d-8516-4520-962d-0d05b35b991c
+- [Beings — humanist blockwork and scale](beings.co-DESIGN.md) — https://refero.design/styles/7f84ff53-5394-45fa-a5a2-d6da9ca55825
+- [Bejamas — lime-lit editorial machinery](bejamas.com-DESIGN.md) — https://refero.design/styles/0a213189-89e5-4b93-a85c-7a65fd9591b8
+- [Belka — industrial light halos](belka.ai-DESIGN.md) — https://refero.design/styles/e1d22f02-c8f9-4eb5-8547-f7a965960a39
+- [Berlin Biennale — electric typographic sculpture](berlinbiennale.de-DESIGN.md) — https://refero.design/styles/de813898-09b3-4e01-8b73-e4e29f8ab4f5
+- [Better Stack — interfaces emerging from midnight](betterstack.com-DESIGN.md) — https://refero.design/styles/e5886713-f06f-4ba4-818a-a46606deff93
+- [Bevel — daylight meets iridescence](bevel.health-DESIGN.md) — https://refero.design/styles/e748c63a-29db-4069-b068-364a6ef89244
+- [Billow — cloudborne business clarity](billow.so-DESIGN.md) — https://refero.design/styles/377c8f42-1b22-42e3-afb5-dbdb57e8a37d
+- [Biograph — hospitality meets deep science](biograph.com-DESIGN.md) — https://refero.design/styles/81a3146a-e476-4fca-b287-34f29e2d3e48
+- [BitcoinOS — portals and proclamations](bitcoinos.build-DESIGN.md) — https://refero.design/styles/48eb2b91-ccb4-43e9-aa60-7b501a3cfc5e
+- [Bose — condensed type, expansive sound](bose.com-DESIGN.md) — https://refero.design/styles/b474c80e-2a84-481f-81ad-29afb4b5b894
+- [Break Maiden — punchy poster gallery](breakmaiden.co-DESIGN.md) — https://refero.design/styles/5c3897ae-b45d-45cc-994f-e5c9409482a9
+- [Brex — sculptural business momentum](brex.com-DESIGN.md) — https://refero.design/styles/8109defe-54a6-4910-8e5e-b52032c4b7d0
+- [Browserbase — pixel terrain and gridlines](browserbase.com-DESIGN.md) — https://refero.design/styles/a3fca8a3-5372-47e5-8ed9-40f4c350ffc9
+- [Bumble — sunny card theatre](bumble.com-DESIGN.md) — https://refero.design/styles/5b1608e2-6342-4b89-8c88-9a3fe54f1b71
+- [Bun — proof with punch](bun.sh-DESIGN.md) — https://refero.design/styles/af7bd000-b13d-4c9d-bb71-77cbf7643647
+- [Burocratik — swagger in the margins](burocratik.com-DESIGN.md) — https://refero.design/styles/51ac689d-896e-4318-8e15-6bf8e8e58750
+- [Butter — chrome toys, elastic type](butter.video-DESIGN.md) — https://refero.design/styles/7fb73f57-64c5-43d6-b289-9b52575956ce
+- [Buy Me a Coffee — friendly yellow orbits](buymeacoffee.com-DESIGN.md) — https://refero.design/styles/2c2500c8-ff34-4bd1-8cec-aef76ab75df1
+- [Bécane Paris — cutout runway index](becaneparis.com-DESIGN.md) — https://refero.design/styles/bce1e371-a30d-4ce6-a364-f324908f6759
+- [Bōjka Studio — electric editorial buoyancy](bojka.studio-DESIGN.md) — https://refero.design/styles/fec7413a-fad0-42d5-b16e-9d1dc6e370bb
+- [Cal.com — soft-edged useful machinery](cal.com-DESIGN.md) — https://refero.design/styles/aedb61e7-e696-4d9a-9d5b-0915f6ca6790
+- [Caldera — halftone industrial optimism](caldera.xyz-DESIGN.md) — https://refero.design/styles/cbe3d4f3-2604-48d1-8245-f4e04dcf95de
+- [Calendly — buoyant work in motion](calendly.com-DESIGN.md) — https://refero.design/styles/23fd8fc9-9eba-4bcd-b6e0-bc6a39204e8d
+- [Cap — cloudlit software craft](cap.so-DESIGN.md) — https://refero.design/styles/6fe84a87-42a1-4c23-ad3f-e5c9cf5ae46b
+- [Capital — sculptural utility on black](capital.xyz-DESIGN.md) — https://refero.design/styles/3e301673-3156-4a22-9667-c237357dfa80
+- [Cards Against Humanity — deadpan cardboard anarchy](cardsagainsthumanity.com-DESIGN.md) — https://refero.design/styles/3125d7d2-4ab7-4360-aec3-88d0c2e82c50
+- [Carrot — acid citrus editorial](carrot.tech-DESIGN.md) — https://refero.design/styles/ef33cdc1-9ed6-4222-a5e1-ffe3728bb0b2
+- [Cartesia — clouded instruments on paper](cartesia.ai-DESIGN.md) — https://refero.design/styles/c7bf1541-bb81-4f3e-b24f-f982f64f548b
+- [Caserne — airborne portfolio editorial](caserne.com-DESIGN.md) — https://refero.design/styles/bc432bac-1d3f-4f51-b03d-37ff1e4618b7
+- [Cassette — pasted-up electric attitude](cassettemusic.com-DESIGN.md) — https://refero.design/styles/9a1c35d0-2e73-437f-a693-bc936e228d9d
+- [Central — cream type, red conviction](centralhq.com-DESIGN.md) — https://refero.design/styles/0852643b-c572-4f80-a878-61249552168c
+- [Channel Studio — computational gallery theatre](channel.studio-DESIGN.md) — https://refero.design/styles/18a6de39-5549-40f5-87bd-c247e6ff5426
+- [Charlie Phipps — oversized type, exposed work](phippscharlie.com-DESIGN.md) — https://refero.design/styles/61bc8832-313f-47e0-9aa7-79f5ed193c2b
+- [Chatbase — gridded color, serif wit](chatbase.co-DESIGN.md) — https://refero.design/styles/cd854147-f31d-47af-8d90-f899452dca15
+- [Chronicle — outcomes on a stage](chroniclehq.com-DESIGN.md) — https://refero.design/styles/7d81f47c-78f8-4c0f-9e5a-f12d2653c5f2
+- [Ciridae — blueprints and embers](ciridae.com-DESIGN.md) — https://refero.design/styles/e887eebf-31ec-48f5-b919-aaf6b83120cf
+- [Clase — images over interface](clasebcn.com-DESIGN.md) — https://refero.design/styles/bf78ef2b-2f83-4e31-882f-a4e72057cb7e
+- [Clau. — fat letters, loud colour fields](clauaskee.com-DESIGN.md) — https://refero.design/styles/7c08c99b-44c7-464e-988a-5ab98fd5dd4d
+- [Claude — ornamental gallery windows](claudetype.com-DESIGN.md) — https://refero.design/styles/04f05968-376b-4578-a121-227ba98a4bcf
+- [CleanShot — luminous native utility](cleanshot.com-DESIGN.md) — https://refero.design/styles/4d2978ad-e430-4915-895c-ab8efba5653f
+- [Clears — lilac control room](clears.ai-DESIGN.md) — https://refero.design/styles/ce1ad239-a68f-4ffa-b2d7-40a1607334c6
+- [Clerk — sculpted software layers](clerk.com-DESIGN.md) — https://refero.design/styles/b4b03cb2-3db3-4df0-b7c1-2facebe7a5e1
+- [ClickHouse — highlighter meets infrastructure](clickhouse.com-DESIGN.md) — https://refero.design/styles/e53b1f69-b012-487e-b7d4-56427b19f2f4
+- [ClickUp — spectrum-powered work playground](clickup.com-DESIGN.md) — https://refero.design/styles/58a2dc02-cdf4-48e7-97f8-4fdf64012edc
+- [Clipdrop — editorial image playground](clipdrop.co-DESIGN.md) — https://refero.design/styles/5401bb0f-0030-4119-9105-47b7c1e79625
+- [Cloaked — cream, ember, human shields](cloaked.com-DESIGN.md) — https://refero.design/styles/3f1bce69-f97a-43da-a19f-147b2c986433
+- [CLOU — expansive spatial optimism](clouarchitects.com-DESIGN.md) — https://refero.design/styles/7a737e6e-7889-43da-bd2a-16500fb8c7b8
+- [Cloudflare — infrastructure in sunlight](cloudflare.com-DESIGN.md) — https://refero.design/styles/71acde89-34af-49be-9c1b-108a5052e5cb
+- [cntrl — freehand meets terminal](cntrl.site-DESIGN.md) — https://refero.design/styles/70887aa9-5be0-4dd4-a3b5-0f183a06d9f9
+- [co2.is — civic ink and terrain](co2.is-DESIGN.md) — https://refero.design/styles/ff036de5-4f3f-4509-86ab-21b6d73218cf
+- [Coda — playful working parts](coda.io-DESIGN.md) — https://refero.design/styles/48d324d0-065d-4660-9fbd-0934023d2247
+- [CodeRabbit — instruments against chaos](coderabbit.ai-DESIGN.md) — https://refero.design/styles/c361293f-20b9-4b0f-998c-018b158e1f08
+- [Codex — charcoal and signal lime](codex.io-DESIGN.md) — https://refero.design/styles/648e22f5-507e-42d6-a6cc-aaaa95988de9
+- [Cofounder — pixel pastoral machinery](cofounder.co-DESIGN.md) — https://refero.design/styles/5fdd662c-cec5-4b8e-aa80-444dcbc3b7a0
+- [Cohere — organic enterprise agency](cohere.com-DESIGN.md) — https://refero.design/styles/d8062331-f7e7-4542-ba71-27f1b343c22a
+- [COLLINS — editorial theatre of transformation](wearecollins.com-DESIGN.md) — https://refero.design/styles/8baa6f4e-67ff-487e-946c-11cf39bda049
+- [Column — infrastructure in soft focus](column.com-DESIGN.md) — https://refero.design/styles/cac43891-1ba6-43b5-b8a8-c71c4a1a5457
+- [Composer — modular color, monumental type](composer.trade-DESIGN.md) — https://refero.design/styles/ab31c7bc-fe05-4f4a-89f4-9c04cd672857
+- [Compound — people and folded light](compoundplanning.com-DESIGN.md) — https://refero.design/styles/39ea63f1-ac08-47fa-a796-769550534a18
+- [Conductor — skyborne tools, human wit](conductor.build-DESIGN.md) — https://refero.design/styles/ac2eb648-10ce-4925-8748-3ff1c698df12
+- [Content Architecture — typographic machinery on paper](contentarchitecture.dev-DESIGN.md) — https://refero.design/styles/bb8d08f3-45eb-4c9c-b4f2-e8918fc3b2d6
+- [Contra Labs — painted digital humanism](contralabs.com-DESIGN.md) — https://refero.design/styles/cd8d863d-de32-44d3-9de7-744c3445adc4
+- [Contra — creative work on stage](contra.com-DESIGN.md) — https://refero.design/styles/82111723-3942-4845-857e-6e7ace0e390f
+- [Contractbook — big shapes, human scribbles](contractbook.com-DESIGN.md) — https://refero.design/styles/563d9f51-c0f3-4862-89e8-6248127ba878
+- [Convex — retro runtime warmth](convex.dev-DESIGN.md) — https://refero.design/styles/e3415417-c37d-4198-a142-d8b8eb603e1e
+- [Copilot Money — glossy midnight optimism](copilot.money-DESIGN.md) — https://refero.design/styles/99051794-a3f5-4aa8-b19e-1e61839d34a6
+- [Corca — highlighted thinking aloud](corca.app-DESIGN.md) — https://refero.design/styles/66610c7e-2f18-4d6a-9895-183a18425420
+- [Corgi — storybook meets infrastructure](corgi.insure-DESIGN.md) — https://refero.design/styles/401c7791-12c1-49f8-904e-fcca613107d5
+- [Counterprint — chromatic objects, blunt type](counter-print.co.uk-DESIGN.md) — https://refero.design/styles/e69fe085-fb93-4a47-862d-7ee6096b5a9e
+- [Cowboy — sculptural city flow](cowboy.com-DESIGN.md) — https://refero.design/styles/2945d44e-baa1-4a09-928c-2c769da8231e
+- [Craft — cultivated light and flare](itscraft.com-DESIGN.md) — https://refero.design/styles/ba4653dc-1986-4086-97a7-8144ac716393
+- [Craft — torn paper possibilities](craft.do-DESIGN.md) — https://refero.design/styles/fe6a44db-cde5-4c34-b447-796f35795c90
+- [Craftwork — curated abundance, human touch](craftwork.design-DESIGN.md) — https://refero.design/styles/6fb7f9c9-99e1-4c59-9885-ba4e10d9bb52
+- [Creative Giants — monumental type, tangible worlds](creativegiants.art-DESIGN.md) — https://refero.design/styles/35a8b782-b8af-445e-8533-044852fe080c
+- [creative.inc — monumental type, tactile play](creative.inc-DESIGN.md) — https://refero.design/styles/e665876b-12ed-4ef3-843a-5d41a9cc27af
+- [Cultured Code — tactile everyday delight](culturedcode.com-DESIGN.md) — https://refero.design/styles/6d2868f9-17f2-4011-87c6-fc3d60a7a307
+- [Cup of Couple — the photographic ledger](cupofcouple.com-DESIGN.md) — https://refero.design/styles/11d3cb1a-70d3-4950-b419-7fa3b2adaeea
+- [Current — human warmth, cartoon punch](current.com-DESIGN.md) — https://refero.design/styles/33261df7-98e4-4c03-9cdc-f6600c31c824
+- [Cursor — painted desktop workbench](cursor.com-DESIGN.md) — https://refero.design/styles/18224e8d-4c0f-44e4-a0ef-e6553dfccc5a
+- [Custo — objects meet monumental type](custo.io-DESIGN.md) — https://refero.design/styles/0a17b165-ea50-48b2-b4cd-f395bf74856f
+- [Customer.io — forest ink, electric edges](customer.io-DESIGN.md) — https://refero.design/styles/afa55874-fd73-45a7-b559-de9d17603a96
+- [Daniel Sun — sunlit drafting table](danielsun.space-DESIGN.md) — https://refero.design/styles/81c0d565-bd0c-41b8-a965-0e91fae50df9
+- [daniel.pizza — a right-hand commonplace](daniel.pizza-DESIGN.md) — https://refero.design/styles/9a88bc43-4b58-4844-bf58-9b2b453d3b84
+- [DashDigital — uppercase cinematic index](dashdigital.studio-DESIGN.md) — https://refero.design/styles/01816a8b-14cf-4732-b914-6b1734176cd0
+- [Dashlane — espresso and electric signals](dashlane.com-DESIGN.md) — https://refero.design/styles/58d4fd83-c43e-45d5-b2a3-bed5c2fe4343
+- [Datalands — information as graphic spectacle](datalands.co-DESIGN.md) — https://refero.design/styles/e7bce2a2-b74e-4911-b940-4f1419b48c19
+- [David Heckhoff — toy worlds, technical soul](david-hckh.com-DESIGN.md) — https://refero.design/styles/4a7444b1-c4ad-4efd-af46-32be2fb06afa
+- [David — sculptural appetite and discipline](davidprotein.com-DESIGN.md) — https://refero.design/styles/904a7fd6-5809-44e8-a108-0d036f49044e
+- [Deck — moss and machines](deck.co-DESIGN.md) — https://refero.design/styles/32982cf0-9d49-4293-86fe-9abe566a83e8
+- [Deezer — electric pop stages](deezer.com-DESIGN.md) — https://refero.design/styles/4c7ddf07-67a1-4c1d-8cde-053023e58492
+- [Default — systems in low light](default.com-DESIGN.md) — https://refero.design/styles/83d97992-b162-46ae-9257-20e197a2181f
+- [Delphi — humanist warmth in orbit](delphi.ai-DESIGN.md) — https://refero.design/styles/4396e2d6-2473-47fe-b2a3-0fcde8b552a1
+- [Deno — icy serif machinery](deno.com-DESIGN.md) — https://refero.design/styles/904b9dce-5f19-4365-8909-1a8c6ced5f5e
+- [Depot — prismatic signal flow](depot.dev-DESIGN.md) — https://refero.design/styles/185d7580-22c5-414e-827a-960d0c3bd4dc
+- [Design Full-time — after-hours workshop energy](designfulltime.com-DESIGN.md) — https://refero.design/styles/290a82b8-c586-43af-8613-12d6c73b7720
+- [Destroy Today — small type, expansive stages](destroytoday.com-DESIGN.md) — https://refero.design/styles/f99c9d2b-ac14-45b4-b038-87b2e5384e8c
+- [Deta — skyborne software garden](deta.surf-DESIGN.md) — https://refero.design/styles/c81e478e-4622-46a0-9803-5edea77ae637
+- [Deux-Cé — tactile image narratives](deux-ce.com-DESIGN.md) — https://refero.design/styles/d536ed2a-a646-493f-8e3c-5b8bf51b31a3
+- [Devin — translucent working worlds](devin.ai-DESIGN.md) — https://refero.design/styles/f2319879-a340-4da1-a4a5-199045ede723
+- [Dezeen — stories in unequal lanes](dezeen.com-DESIGN.md) — https://refero.design/styles/eecfeb5c-7e10-4fc1-9bc4-728d21c71334
+- [Dia — sunlit workday theatre](diabrowser.com-DESIGN.md) — https://refero.design/styles/8af8909b-a704-4c36-9620-a53dee94acb8
+- [Dialog — editorial warmth in orbit](askdialog.com-DESIGN.md) — https://refero.design/styles/8fab881b-a91c-44a0-9b26-0abe4cc30f46
+- [DICE — poster type, human energy](dice.fm-DESIGN.md) — https://refero.design/styles/737682af-c9f0-4384-be9a-fa979413b398
+- [DigitalOcean — luminous systems terrain](digitalocean.com-DESIGN.md) — https://refero.design/styles/6e2390c7-27ac-4228-8bd5-68a2741064fe
+- [Dirt — chrome and creative worlds](dirtverse.co-DESIGN.md) — https://refero.design/styles/b3c8c58e-87b2-4f75-a997-85305be106cd
+- [Discord — playful worlds in orbit](discord.com-DESIGN.md) — https://refero.design/styles/ccc55de1-47b2-4da8-a5e5-868373cf5bc6
+- [Disney+ — cinematic abundance, electric choice](disneyplus.com-DESIGN.md) — https://refero.design/styles/b0ab1ff7-0369-4576-983c-5aeb0fe42476
+- [Displace — gallery meets operating manual](displace.agency-DESIGN.md) — https://refero.design/styles/fe0ac316-3a0e-4041-9da6-39c05efe2d59
+- [Ditto — serious work, playful beads](trustditto.com-DESIGN.md) — https://refero.design/styles/1580ed0a-de0e-4d4c-bb5c-0dabd9462155
+- [Doctronic — a human conversation](doctronic.ai-DESIGN.md) — https://refero.design/styles/1f8da97d-4dc3-4b08-9bf3-2cf7d0542649
+- [Domaine — commerce as editorial theatre](domaineworldwide.com-DESIGN.md) — https://refero.design/styles/693a3f91-ffb5-4c8c-9d7b-b28a32402c5f
+- [Doo — pastel cards, floating devices](getdooapp.com-DESIGN.md) — https://refero.design/styles/94e2b7d8-ffb2-4401-b4b0-3f57f75ba5ca
+- [dope.security — cinematic flight hardware](dope.security-DESIGN.md) — https://refero.design/styles/e2324e47-8a8d-443d-b536-2a076242a1d8
+- [DOSS — software with physical roots](doss.com-DESIGN.md) — https://refero.design/styles/f86caa86-0a2d-4512-99da-33d6720cba92
+- [Dot — tactile optimism, engineered](dotincorp.com-DESIGN.md) — https://refero.design/styles/695a0fe0-fce8-4903-b196-a7453d9ab76d
+- [dotconnect — engineered irreverence](dotconnect.vc-DESIGN.md) — https://refero.design/styles/84cb90a3-96b3-4d67-904c-96c52fc48708
+- [Dovetail — ink and human ingenuity](dovetail.no-DESIGN.md) — https://refero.design/styles/d3d0aa01-4e22-4d2a-a5a1-ccf39c4b27ea
+- [Dovetail — pixelated machine theatre](dovetail.com-DESIGN.md) — https://refero.design/styles/45720a05-69e6-4a7c-ba79-c070409152e0
+- [Dries Bos — folded architectural index](driesbos.com-DESIGN.md) — https://refero.design/styles/abab0b21-258c-43f2-be78-3b535a777772
+- [Drizzle — doodles meet developer proof](drizzle.team-DESIGN.md) — https://refero.design/styles/41999794-1eae-4bac-a96d-1eacc37d112e
+- [Dropbox — content in motion](dropbox.com-DESIGN.md) — https://refero.design/styles/b96b41da-6b4a-4c43-bb66-6d49cb1e1f32
+- [Dropmark — geometric play at work](dropmark.com-DESIGN.md) — https://refero.design/styles/0d7877d8-a223-4d1c-82ee-e037b7147db0
+- [Dub — luminous product machinery](dub.co-DESIGN.md) — https://refero.design/styles/152626e2-49c9-442a-a4a8-a51eb7dff17e
+- [Duna — pastoral infrastructure](duna.com-DESIGN.md) — https://refero.design/styles/b97c3fc9-bf36-4ecb-8b7d-915d2d7bceb7
+- [Duolingo — buoyant bite-sized delight](duolingo.com-DESIGN.md) — https://refero.design/styles/bd4b3de7-fd30-4620-a8ca-e850b0f2817b
+- [Duties — angular type, tangible proof](duties.xyz-DESIGN.md) — https://refero.design/styles/6b20ff5e-16ff-47b9-8cb7-270c80aa45a6
+- [EarlyDog — primary shapes, human promises](earlydog.com-DESIGN.md) — https://refero.design/styles/f3415edd-8481-4060-8bf7-4d7acc17277b
+- [Ease Health — botanical systems in flow](easehealth.com-DESIGN.md) — https://refero.design/styles/5699d635-a67d-4128-bab0-c0b598eabef0
+- [Eclipse — orbital poster energy](eclipse.xyz-DESIGN.md) — https://refero.design/styles/5ae51873-dfd2-4478-96d6-43baf6a9f3a8
+- [Ecosia — everyday action, living color](ecosia.org-DESIGN.md) — https://refero.design/styles/4f1146fc-8280-4cda-9eb0-39c83d314d77
+- [Eight Sleep — engineered for dusk](eightsleep.com-DESIGN.md) — https://refero.design/styles/b8ca61bc-1e72-4979-a74f-8db2998bd9ab
+- [Eindhoven Design District — type turned into architecture](eindhovendesigndistrict.com-DESIGN.md) — https://refero.design/styles/6ed18c2f-365b-4f29-9168-d5751e7d6a77
+- [Electronic Materials Office — occult hardware in the dark](electronicmaterialsoffice.com-DESIGN.md) — https://refero.design/styles/467d0d59-a87d-4d55-93c9-b05889ccc552
+- [ElevenLabs — living instruments on cream](elevenlabs.io-DESIGN.md) — https://refero.design/styles/06371bb6-be91-4a9f-a9eb-389d189d22a0
+- [ElevenReader — paper objects in motion](elevenreader.io-DESIGN.md) — https://refero.design/styles/6227c9cb-5652-4b0c-bd9c-93d7cd0a07a8
+- [Elvina Prasad — staggered typographic theatre](elvinaprasad.com-DESIGN.md) — https://refero.design/styles/5df2af07-6ce2-4805-bf45-6ee595e623e0
+- [Employment Hero — lavender with superpowers](employmenthero.com-DESIGN.md) — https://refero.design/styles/e2de1b8c-cfde-4835-bf08-213026ccbcb8
+- [Endel — nocturnal signal sculptures](endel.io-DESIGN.md) — https://refero.design/styles/cf10dc53-d3f1-4d70-aa3a-06f069a371f2
+- [Endless Tools — blackboard meets render studio](endlesstools.io-DESIGN.md) — https://refero.design/styles/e6d470ef-4d68-4d6f-8d89-84bb6d91b452
+- [EPIC — couture type, playful machinery](epic.net-DESIGN.md) — https://refero.design/styles/fef606e3-9c7c-43ef-8f27-66c5d52d9799
+- [Epidemic Sound — editorial sound in color](epidemicsound.com-DESIGN.md) — https://refero.design/styles/c441c7cf-2d28-4c27-b9b3-c8fa129d7f67
+- [Equals — spreadsheets meet the broadsheet](equals.com-DESIGN.md) — https://refero.design/styles/79cdb2d3-e622-4f87-bd3c-f0a2fa216925
+- [Era — domestic life, working systems](era.app-DESIGN.md) — https://refero.design/styles/c991def4-7a5e-4e7f-ab8c-c6bc2b401fc8
+- [Erno Works — indented visual index](erno.works-DESIGN.md) — https://refero.design/styles/0d179791-56ff-4195-abbb-00ba111d3ae5
+- [ethereum.org — an illustrated public future](ethereum.org-DESIGN.md) — https://refero.design/styles/a336a01a-afd0-4f78-b16a-91fea2b8aaae
+- [Eventbrite — human energy, practical tools](eventbrite.com-DESIGN.md) — https://refero.design/styles/db258094-0014-42da-84f9-1ead4e31b6c3
+- [Evermade — serif with voltage](evermade.fi-DESIGN.md) — https://refero.design/styles/09ef6f9f-288c-4cce-a8eb-79b485383d7d
+- [Evernote — paper with playful sparks](evernote.com-DESIGN.md) — https://refero.design/styles/12e3d65d-def8-4b5d-9556-1125715d2f74
+- [Evervault — electric infrastructure theater](evervault.com-DESIGN.md) — https://refero.design/styles/e2d6fbb9-3ab4-44f1-a62e-c70feeafaa08
+- [Expo — radiant tools, soft machinery](expo.dev-DESIGN.md) — https://refero.design/styles/082c8357-217e-488f-84f4-dcd7aace5f6a
+- [ExpressVPN — reassuring serif theatre](expressvpn.com-DESIGN.md) — https://refero.design/styles/dbe54926-7852-4ec4-b437-3d524cda16ca
+- [Extract — editorial billboard rhythm](extract.studio-DESIGN.md) — https://refero.design/styles/4cb9b719-ff16-4db4-9fcb-b0ad5eba8fd6
+- [EyeDrop — violet lenses, literary charm](eyedrop.ai-DESIGN.md) — https://refero.design/styles/b536a65b-626b-4e38-a82b-abb77ee3fc1c
+- [Fabric — serif with playmates](fabric.so-DESIGN.md) — https://refero.design/styles/61d42699-6b7a-4f5a-b2fb-950400f9f022
+- [Faire — the neighborhood atelier](faire.com-DESIGN.md) — https://refero.design/styles/7d0c8803-745e-4e4f-97fc-82711be47cff
+- [fal.ai — pixels at platform scale](fal.ai-DESIGN.md) — https://refero.design/styles/82a29bf1-2484-4c1d-839c-3d5fb3179982
+- [Family — friendly shapes, serious utility](family.co-DESIGN.md) — https://refero.design/styles/597514d4-1e89-45ae-93c3-3aa6ee745a56
+- [Farm Minerals — engineered earth theatre](farmminerals.com-DESIGN.md) — https://refero.design/styles/32abd3f0-39ed-4a57-a0eb-781c6e38396c
+- [FastHTML — candy blocks, serious tools](fastht.ml-DESIGN.md) — https://refero.design/styles/0dec2c3a-34bf-4515-b91c-54fe89dc5b23
+- [Fathom — small tech, big heart](usefathom.com-DESIGN.md) — https://refero.design/styles/a1029801-bc83-416d-b027-459cdfb2865c
+- [Fauna Robotics — engineered block play](faunarobotics.com-DESIGN.md) — https://refero.design/styles/3add0a4f-5574-4981-b00f-c876f7de86fb
+- [Favorit Studio — monumental type, tactile stages](favorit.studio-DESIGN.md) — https://refero.design/styles/58aa5f84-1477-482d-8ded-f90c28860cb7
+- [Feels — neon nights, human stories](feels-app.com-DESIGN.md) — https://refero.design/styles/794f3450-52c9-4263-a277-4d5f2f492e7e
+- [Felt — field notes meet software](felt.com-DESIGN.md) — https://refero.design/styles/ea1af29d-301c-4654-8da2-b224d9036f4d
+- [Fiasco — feeling at full volume](fiasco.design-DESIGN.md) — https://refero.design/styles/65c5033e-21e8-4c4d-8976-bd7f9cc6a2bd
+- [Fictional — comic sticker playground](fictional-typeface.com-DESIGN.md) — https://refero.design/styles/56b70ddd-a655-4e32-96fa-9fda0e3a4177
+- [Fidèle Éditions — blue ink, living paper](fidele-editions.com-DESIGN.md) — https://refero.design/styles/296c0a5f-41a0-4ed3-b0ff-a8248f6efe74
+- [Figma — expressive tools on display](figma.com-DESIGN.md) — https://refero.design/styles/9e7f36cf-83e2-445b-83bc-f804c13ff304
+- [Figure — cinema meets machinery](figure.ai-DESIGN.md) — https://refero.design/styles/f23c8fcb-5144-4ec0-a5c3-ea3d50780f33
+- [Firecrawl — embers on graph paper](firecrawl.dev-DESIGN.md) — https://refero.design/styles/65cb9c89-e617-4393-b0e0-e473c907b4d0
+- [Flayks — elastic poster theatre](flayks.com-DESIGN.md) — https://refero.design/styles/9cd773b3-7800-4c78-b2f1-8eca128a7062
+- [Flexibits — colorful app theatre](flexibits.com-DESIGN.md) — https://refero.design/styles/1a947d02-9658-4c7b-9377-d4f51372ae61
+- [Flighty — reassurance in motion](flighty.com-DESIGN.md) — https://refero.design/styles/68ea7604-f1cd-4ab9-b43d-bb27a146452d
+- [Flim — cinematic graph-paper playground](flim.ai-DESIGN.md) — https://refero.design/styles/f2f1c75b-c3f1-4177-8ce2-125b6b2bd6ec
+- [FlutterFlow — violet-lit visual machinery](flutterflow.io-DESIGN.md) — https://refero.design/styles/b5731c6c-ea17-4be9-bb50-a1a3c0392f31
+- [Flutterwave — exuberance on a curve](flutterwave.design-DESIGN.md) — https://refero.design/styles/cbf8ad02-c1fa-47be-8a00-4dae06e95820
+- [Fluz — glossy everyday abundance](fluz.app-DESIGN.md) — https://refero.design/styles/a982e085-53ec-4c86-be4b-357a85f8c1c4
+- [Fly.io — storybook cloud machinery](fly.io-DESIGN.md) — https://refero.design/styles/d3fe0c7b-92e9-4404-adab-01f3475d04b5
+- [Flying Papers — oversized poster play](flyingpapers.com-DESIGN.md) — https://refero.design/styles/3d7b2a89-35bb-462e-9da4-54bee1b03b62
+- [folk — ruled stages, human tools](folk.app-DESIGN.md) — https://refero.design/styles/d3d61521-eae9-4423-b064-e292ed130e38
+- [Fonts in Use — specimen-led editorial index](fontsinuse.com-DESIGN.md) — https://refero.design/styles/f2f1df76-1c2e-4e7c-a1a9-24669510d48a
+- [Foodnoms — rounded everyday optimism](foodnoms.com-DESIGN.md) — https://refero.design/styles/27734bac-cc56-453c-bda8-c9df2cea4de6
+- [Format — technicolor listening room](useformat.ai-DESIGN.md) — https://refero.design/styles/3422750b-c290-4d1b-8943-d3a5e29a5b51
+- [Foudre — punchy pink card theatre](agencefoudre.com-DESIGN.md) — https://refero.design/styles/67366a36-492b-49d9-b5f6-97f24c4ae64d
+- [Fourmula — orbit to orange](fourmula.ai-DESIGN.md) — https://refero.design/styles/fd054a2f-e492-4723-8bcf-4de192eb0b2d
+- [Frame.io — cinematic glass currents](frame.io-DESIGN.md) — https://refero.design/styles/93716619-4032-4155-9352-604e6db989b0
+- [Framer — electric canvas craft](framer.com-DESIGN.md) — https://refero.design/styles/26fc6fe7-6f45-4ed5-af3c-eb4f982d3079
+- [Franco Maria Ricci — the collector’s cabinet](francomariaricci.com-DESIGN.md) — https://refero.design/styles/2c3b31a4-6e28-47a0-afbd-cb22e22e34fb
+- [Function Health — terracotta meets human science](functionhealth.com-DESIGN.md) — https://refero.design/styles/7e70596d-5264-44bc-9ca6-cb8a6e7a22b0
+- [Fuser — luminous creative machinery](fuser.studio-DESIGN.md) — https://refero.design/styles/827e1ed5-49d7-4f96-9494-cc4202bf2d3f
+- [Gemini — horizons and hard numbers](gemini.com-DESIGN.md) — https://refero.design/styles/582065f5-0f41-45a6-9c09-28f087e4550e
+- [General Intelligence Company — pastoral pixel futurism](generalintelligencecompany.com-DESIGN.md) — https://refero.design/styles/5a899c5e-5f5a-47bf-8bda-817d243e6d69
+- [Genie — cloudborne creative play](geniestudio.app-DESIGN.md) — https://refero.design/styles/68d17333-29b1-4dcb-83f6-1dec2f745a65
+- [Gentler Stories — human momentum](gentlerstories.com-DESIGN.md) — https://refero.design/styles/69c67a51-1d7d-4751-b8d6-80ff8882fbbd
+- [Ghia — sunlit aperitivo theatre](drinkghia.com-DESIGN.md) — https://refero.design/styles/b1050617-f2b0-42d9-91aa-3057f6b11aec
+- [Ghost — independent ambition at scale](ghost.org-DESIGN.md) — https://refero.design/styles/bd1b244d-6e27-458b-8760-c15c387bd139
+- [Giga — spectral instruments at work](giga.ai-DESIGN.md) — https://refero.design/styles/0329799a-ce3b-4777-902c-6ecaf890fb4f
+- [GitBook — ribboned product optimism](gitbook.com-DESIGN.md) — https://refero.design/styles/da85c171-2608-45f6-8fff-a7133a601a99
+- [GitButler — serif swagger meets terminal](gitbutler.com-DESIGN.md) — https://refero.design/styles/7d8704b6-9301-4b70-a1a0-07b81bd419d9
+- [GitHub — luminous collaborative playground](github.com-DESIGN.md) — https://refero.design/styles/36779b8b-b2fb-44b7-81e9-08e6a6aeacaa
+- [Givingli — paper with heart](givingli.com-DESIGN.md) — https://refero.design/styles/62f904b0-0d6e-47dd-b78c-6f097a7259bc
+- [Glossier — everyday polish, handwritten play](glossier.com-DESIGN.md) — https://refero.design/styles/daeaf36c-26b3-495f-a029-abc338568036
+- [Glow — porcelain product theater](glow.app-DESIGN.md) — https://refero.design/styles/c40d93c4-846b-4fd9-a03d-4346065ae44a
+- [Glyphs — letterforms at play](glyphsapp.com-DESIGN.md) — https://refero.design/styles/12d3e373-968c-4640-bdd0-0fffbc2dda3e
+- [Good Glyphs — mint pictographic poster](goodglyphs.com-DESIGN.md) — https://refero.design/styles/71f67f44-7f33-4a4f-a391-241c033e6265
+- [Goodnotes — thinking beyond the margins](goodnotes.com-DESIGN.md) — https://refero.design/styles/03e20747-7b09-4a36-abe3-be199c777896
+- [Gradient Labs — human systems in miniature](gradient-labs.ai-DESIGN.md) — https://refero.design/styles/5405a30c-5c53-46f6-a6ac-72d7d80961c4
+- [Grafana — pastel power, technical warmth](grafana.com-DESIGN.md) — https://refero.design/styles/9c42a51c-9e1c-4de5-812a-d13f947d53d8
+- [Grafik — compressed type, expansive work](grafik.co.nz-DESIGN.md) — https://refero.design/styles/102bb959-a8a4-43ac-a572-0d0c38cf4163
+- [Grammarly — work in focus](grammarly.com-DESIGN.md) — https://refero.design/styles/1ee2fca0-f80a-422c-8f0d-442cc6560555
+- [Granola — paper tools, playful texture](granola.ai-DESIGN.md) — https://refero.design/styles/757b5646-cb9f-4136-8cb2-a1f999ec8dd6
+- [Graphy — luminous objects, lucid stories](graphy.app-DESIGN.md) — https://refero.design/styles/42d04022-0610-4930-885b-8b6dcfd6918e
+- [Graza — pantry pop editorial](graza.co-DESIGN.md) — https://refero.design/styles/4a7ed584-2b2d-431e-840f-bbb42a5ce5dd
+- [Greptile — halftone engineering paper](greptile.com-DESIGN.md) — https://refero.design/styles/f9de5e5a-a69b-43ee-a14f-3891a820970d
+- [Griffin — engraved systems, human warmth](griffin.com-DESIGN.md) — https://refero.design/styles/0d826a1a-ea95-400f-86b0-5f05bccd1e14
+- [Groq — dot matrix monumentality](groq.com-DESIGN.md) — https://refero.design/styles/7d86cf47-4168-4953-87cd-f515bdb21663
+- [Guglieri — objects on an editorial stage](guglieri.com-DESIGN.md) — https://refero.design/styles/2aeccd69-f2e7-4936-80ad-0dd50f9ffe6b
+- [Gumloop — playful infrastructure theater](gumloop.com-DESIGN.md) — https://refero.design/styles/6ac2be21-1ee2-4194-90ee-912c8edea7d0
+- [Gumroad — paper money playground](gumroad.com-DESIGN.md) — https://refero.design/styles/9f3b866d-4aaa-49f7-95f8-1284188a61a1
+- [Haleys.design — playful cathedral marginalia](haleys.design-DESIGN.md) — https://refero.design/styles/71bb1699-3b0e-456f-a18c-c2cb189f0389
+- [Handsome Frank — storybook swagger](handsomefrank.com-DESIGN.md) — https://refero.design/styles/dd9b96b3-152e-4d07-8d08-fa180d665329
+- [Harry Atkins — initials and indexes](harryjatkins.com-DESIGN.md) — https://refero.design/styles/07984368-23c1-46e4-91bd-f69b357fdebf
+- [Harvest — business in warm ink](getharvest.com-DESIGN.md) — https://refero.design/styles/84038313-ce21-427a-ac4e-f88baa671553
+- [Harvey — institutional ink and pigment](harvey.ai-DESIGN.md) — https://refero.design/styles/8b0bdc1e-7147-43aa-9b07-9de04fb6e73b
+- [Headroom — electric bespoke worlds](headroom.com-DESIGN.md) — https://refero.design/styles/5ed8415d-450a-44e2-b285-aa203faa7c40
+- [Headspace — sunny shapes, human reassurance](headspace.com-DESIGN.md) — https://refero.design/styles/10f8c9d2-d38e-4e2b-a58b-67e7b7beecf9
+- [Heart Aerospace — engineering at horizon scale](heartaerospace.com-DESIGN.md) — https://refero.design/styles/f1663527-e40e-4ea2-a068-f6592b8a5f63
+- [Hex — curiosity on drafting paper](hex.tech-DESIGN.md) — https://refero.design/styles/52c362f0-33ce-4035-9d2d-202c7fab95ae
+- [HEY — chunky type, human warmth](hey.com-DESIGN.md) — https://refero.design/styles/7467027a-b5e9-488f-b0fe-becc1109dd01
+- [heyclicky — desktop playground nostalgia](heyclicky.com-DESIGN.md) — https://refero.design/styles/17045fb6-28d2-4454-9894-9d9c93df193c
+- [Hightouch — campaigns in the atmosphere](hightouch.com-DESIGN.md) — https://refero.design/styles/3fa2185e-c198-4eb6-b6c5-084ccd7a34a0
+- [Hilos — inked characters, editorial warmth](hilos.sh-DESIGN.md) — https://refero.design/styles/1c2739f2-f40c-4095-815c-82e4a5084618
+- [Hims — larger than life reassurance](forhims.com-DESIGN.md) — https://refero.design/styles/4266579e-164c-4d9e-869d-63d84e9a50be
+- [Houseplant — high design, low pretension](houseplant.com-DESIGN.md) — https://refero.design/styles/75ea77f3-fabe-4043-a45c-4467b0040f03
+- [HubSpot — human warmth, connected growth](hubspot.com-DESIGN.md) — https://refero.design/styles/2d388bd2-b365-490d-b467-de8138d7888d
+- [Huddle — pastel blocks, human momentum](huddle.works-DESIGN.md) — https://refero.design/styles/80112d7a-aa2e-4c31-8503-77a5bb54eced
+- [Hugging Face — community meets workbench](huggingface.co-DESIGN.md) — https://refero.design/styles/73870d92-fdc2-4e42-8e44-052d51346845
+- [Huly — luminous digital machinery](huly.io-DESIGN.md) — https://refero.design/styles/d4e10871-3d74-4380-8d0e-01e00ce9bb37
+- [Humble — illustrated industrial optimism](humbleops.com-DESIGN.md) — https://refero.design/styles/2f7b1109-9dee-4139-bfeb-87246e9f5d61
+- [Hume — human signals, scientific instruments](hume.ai-DESIGN.md) — https://refero.design/styles/c71f500b-0717-4a99-ac0d-709984bb60ce
+- [Hungry Tiger — spice-soaked poster theatre](eathungrytiger.com-DESIGN.md) — https://refero.design/styles/f9825cbd-2d04-4f23-8ca7-0c985ed3ccfe
+- [Hyer — altitude and assurance](flyhyer.com-DESIGN.md) — https://refero.design/styles/d70f0dd1-33c0-43b8-8e06-1508c3392eef
+- [Hyperliquid — liquid systems, editorial scale](hyperliquid.xyz-DESIGN.md) — https://refero.design/styles/17dfeba8-0938-4240-b7fb-555694c6bfe8
+- [Hyperstudio — dot-matrix atelier](hyperstudio.org-DESIGN.md) — https://refero.design/styles/a51a281b-a72c-4f29-81ec-9dc4173397eb
+- [iA — words take the stage](ia.net-DESIGN.md) — https://refero.design/styles/4e0fa3a8-dfaf-404b-aa39-a828e3fc74af
+- [IDHEAL — civic print in motion](idheal.fr-DESIGN.md) — https://refero.design/styles/e0fc749a-2601-4d90-9d53-1b0b597c7080
+- [IFTTT — chunky connected color](ifttt.com-DESIGN.md) — https://refero.design/styles/5b6fe855-d622-4ed8-a989-5062996487dd
+- [IKEA — everyday life in colour](ikea.com-DESIGN.md) — https://refero.design/styles/aaf9723d-79db-49a3-b827-61e6466fbf78
+- [ilovecreatives — editorial playground energy](ilovecreatives.com-DESIGN.md) — https://refero.design/styles/fe72e9d8-354c-47c4-aef7-52871eb32b26
+- [Impossible Foods — oversized type, appetite appeal](impossiblefoods.com-DESIGN.md) — https://refero.design/styles/db742ba9-fb00-417c-bd19-13794b6eb5d4
+- [incident.io — editorial warmth under pressure](incident.io-DESIGN.md) — https://refero.design/styles/ccc75d8d-b5b4-4f97-a5c1-324a5d15c268
+- [Increase — folded spectrum infrastructure](increase.com-DESIGN.md) — https://refero.design/styles/7a2dd304-64c5-49c9-b2c3-0cfaacffaa9e
+- [Index Space — the social noticeboard](index-space.org-DESIGN.md) — https://refero.design/styles/e3d55ed8-ceb3-454f-a828-a40511512a30
+- [Ingmar Coenen — monolithic letters, slender stories](ingmarcoenen.com-DESIGN.md) — https://refero.design/styles/b8818ed8-b554-4d21-9a70-db86d20c9ab3
+- [INK — cinematic gallery restraint](weareink.co.uk-DESIGN.md) — https://refero.design/styles/5ea38560-23fe-4ca5-b7db-1a57f1f7dac9
+- [Inngest — grain and signal](inngest.com-DESIGN.md) — https://refero.design/styles/61337564-67af-4430-b77c-e72e47285890
+- [Instagram — everyday expression amplified](instagram.com-DESIGN.md) — https://refero.design/styles/eec46508-90d9-42fc-abc6-8418e5bb5820
+- [Intercom — humanist systems and ephemera](intercom.com-DESIGN.md) — https://refero.design/styles/e3b35a27-6968-4660-8f22-684d2c782ba7
+- [Interfere — prismatic software on paper](interfere.com-DESIGN.md) — https://refero.design/styles/a1279b6f-0010-4933-85c3-1d55cbe5a3cd
+- [International Magic — floating gallery placards](intmagic.com-DESIGN.md) — https://refero.design/styles/6335f241-8e1f-41c7-a1bd-a34413af01fb
+- [ISO Meet — letters with human texture](isomeet.com-DESIGN.md) — https://refero.design/styles/2fb9dde5-f1f9-4795-b63e-dc90bb441d81
+- [It's Nice That — curiosity in full colour](itsnicethat.com-DESIGN.md) — https://refero.design/styles/0956bb40-31e2-4a19-85ea-fd0d373add96
+- [JetBrains — sculptural software confidence](jetbrains.com-DESIGN.md) — https://refero.design/styles/7ac9b744-3c32-43d9-897c-046f7421dfd3
+- [Jeton — sculpted red momentum](jeton.com-DESIGN.md) — https://refero.design/styles/c76207d7-68cc-45b1-9bdc-93dfa6a9ec85
+- [Jitter — bold type, sticker energy](jitter.video-DESIGN.md) — https://refero.design/styles/4c68c881-b672-4a81-a679-51e931d60e66
+- [Josephmark — culture on a black stage](josephmark.studio-DESIGN.md) — https://refero.design/styles/8325ac5f-c044-4b27-98fb-b16b09a75a00
+- [Kikin — forest-green poster optimism](kikin.io-DESIGN.md) — https://refero.design/styles/eaa4ac11-2397-428e-aa32-fdcf76867190
+- [Kinfolk — collected objects, printed voices](kinfolk.com-DESIGN.md) — https://refero.design/styles/225a1a8d-48b2-4b1e-a3a8-ca2b797f4701
+- [Kippo — neon terminal playground](kippo.com-DESIGN.md) — https://refero.design/styles/cc2c7131-7fc0-4da0-86e2-c5beb8bfad1f
+- [Kira Learning — paper meets electric play](kira-learning.com-DESIGN.md) — https://refero.design/styles/21c1dbc4-7ebd-4333-b7af-de4ed468d42c
+- [Kit — condensed creator energy](kit.com-DESIGN.md) — https://refero.design/styles/8cb63345-7cc9-4c5b-bf60-b8b4a6d6228a
+- [Klim — specimen as spectacle](klim.co.nz-DESIGN.md) — https://refero.design/styles/06d6473a-2a8a-4545-9f47-df84d1ac2302
+- [Ko-fi — friendly paper playground](ko-fi.com-DESIGN.md) — https://refero.design/styles/4b6a8a0b-a5bf-473a-9b4f-4782b65a20c3
+- [Kobbe — storybook software shores](kobbe.io-DESIGN.md) — https://refero.design/styles/6f5bf58a-68ef-4065-85fc-ea0d24f3f67e
+- [Kode Immersive — spatial type manifestos](kodeimmersive.com-DESIGN.md) — https://refero.design/styles/f4ab8f10-c19f-4b2f-bf64-8b21cbcf7e43
+- [komoot — playful field notes](komoot.com-DESIGN.md) — https://refero.design/styles/f946f035-2a1d-44a2-92ef-ad1aefb0a07a
+- [Kosinov — miniature mark, expansive index](kosinov.com-DESIGN.md) — https://refero.design/styles/70cc371d-2c97-4d60-bb40-1672336374e5
+- [Koto — cinema meets studio index](koto.com-DESIGN.md) — https://refero.design/styles/2877d3c7-b94f-42e7-98c3-871399634ddd
+- [Kraken — chrome in violet orbit](kraken.com-DESIGN.md) — https://refero.design/styles/d520cbf2-d13b-4fe0-9d81-1c8c73794654
+- [Krea — sculpted creative workspaces](krea.ai-DESIGN.md) — https://refero.design/styles/3ce50793-adf1-425b-866b-339f431f9645
+- [Krepling — pastel machines in motion](krepling.com-DESIGN.md) — https://refero.design/styles/6ec3fdee-0586-47fb-b240-4e400f6f935c
+- [KÖPPEN — material rituals on cream](koppen.co-DESIGN.md) — https://refero.design/styles/835dd285-51cd-4b7b-84fc-e7e81726d82c
+- [Lama Lama — full throttle halftone](lamalama.com-DESIGN.md) — https://refero.design/styles/684ab595-da4e-4db3-a2b1-700210a156b3
+- [Lamborghini — cinematic mechanical theatre](lamborghini.com-DESIGN.md) — https://refero.design/styles/81712219-046d-4397-85a1-7de4fbd7ab88
+- [Lassie — human work in bloom](lassie.ai-DESIGN.md) — https://refero.design/styles/ce7b2a70-b497-4d3b-9fdc-b807f2ac17ec
+- [Lattice — pastel-powered human ambition](lattice.com-DESIGN.md) — https://refero.design/styles/2a27bcbc-6378-48d5-962d-1715dba3ddf7
+- [LaunchDarkly — neon control playground](launchdarkly.com-DESIGN.md) — https://refero.design/styles/bc84b497-cd27-47ae-8463-a38f32f44724
+- [Legora — glass systems, human judgment](legora.com-DESIGN.md) — https://refero.design/styles/f81ea2fa-ac3d-48c2-99f0-8c3360ad7416
+- [LEIF — sculptural everyday rituals](leifproducts.com-DESIGN.md) — https://refero.design/styles/5dc1ce6a-6de9-48c3-9b76-a9249cd76037
+- [Lemon Squeezy — easy-peasy color blocks](lemonsqueezy.com-DESIGN.md) — https://refero.design/styles/07143578-62a0-4305-a400-aa1e9da29302
+- [Lens — playful contour systems](lens.xyz-DESIGN.md) — https://refero.design/styles/887d9eb6-64d3-4f62-89e5-b14dedb31d53
+- [Letters — cloudborne everyday tools](letters.app-DESIGN.md) — https://refero.design/styles/6bbdcdbc-c97a-41a0-8da3-bbb702c4dff4
+- [Lightship — open-country engineering](lightshiprv.com-DESIGN.md) — https://refero.design/styles/236dd313-80f1-4778-a7dd-4edaa82e485e
+- [Lightspark — interfaces in atmosphere](lightspark.com-DESIGN.md) — https://refero.design/styles/26f5d1ef-88b6-4d78-83dd-9746144f1cfd
+- [Linear — instruments after midnight](linear.app-DESIGN.md) — https://refero.design/styles/3affd07f-e21e-46a4-8aee-26accba689a6
+- [Linktree — big blocks, playful worlds](linktr.ee-DESIGN.md) — https://refero.design/styles/a46cac19-819d-4109-8302-99a06bc11e13
+- [Lithic — contours around infrastructure](lithic.com-DESIGN.md) — https://refero.design/styles/6a055935-6828-4e8d-9574-e728a8eee846
+- [Little Amps — analog neighborhood energy](littleampscoffee.com-DESIGN.md) — https://refero.design/styles/50997b03-36a8-41aa-8951-6567c1c6c1e9
+- [Little Troop — objects with personality](littletroop.com-DESIGN.md) — https://refero.design/styles/27ded245-4b01-4160-9e76-5d4c67d8cb12
+- [Liveblocks — graphite under soft light](liveblocks.io-DESIGN.md) — https://refero.design/styles/0701732b-8a77-4aab-9435-8c79fb813294
+- [LocalCan — a ruled digital workbench](localcan.com-DESIGN.md) — https://refero.design/styles/2061b03f-4d5e-4805-93c0-b40f9d2d7456
+- [LogoArchive — the editorial cabinet](logo-archive.org-DESIGN.md) — https://refero.design/styles/fd9cd0e4-debd-44d0-92b9-e08176e197bc
+- [Loops — paper tools, sunset rails](loops.so-DESIGN.md) — https://refero.design/styles/e981342f-21e9-445c-9bc7-e7755c01e6a6
+- [LottieFiles — playful production playground](lottiefiles.com-DESIGN.md) — https://refero.design/styles/421cff75-c0cf-4361-888e-60d532beb302
+- [Lottielab — playful tools, open space](lottielab.com-DESIGN.md) — https://refero.design/styles/138e1e3b-1819-4ead-b11f-3558990647a3
+- [Luffu — technology in human light](luffu.com-DESIGN.md) — https://refero.design/styles/ebac7d63-37f9-43cd-8a50-96581c6ec223
+- [Luma — cinema meets workbench](lumalabs.ai-DESIGN.md) — https://refero.design/styles/faa66add-ae07-4852-bc66-477847157b5d
+- [Luma — floating invitations to delight](luma.com-DESIGN.md) — https://refero.design/styles/c812b493-a1cd-4fb8-b5a0-b54b1521d7ce
+- [Lóvi — clinical care, pearlescent warmth](lovi.care-DESIGN.md) — https://refero.design/styles/632fc9e6-64d5-4e06-a589-a6f6e6c3e92d
+- [Made by ON — serif meets circuitry](madebyon.com-DESIGN.md) — https://refero.design/styles/c4945bde-5f0e-4af7-bf90-bc226af04495
+- [Made With Gsap — playful interaction laboratory](madewithgsap.com-DESIGN.md) — https://refero.design/styles/2ac7fa03-35fe-43d3-b93d-afded0ca6f3b
+- [Magic Patterns — aurora meets workbench](magicpatterns.com-DESIGN.md) — https://refero.design/styles/22e88378-848b-49e1-b7cb-f052fea9623c
+- [Magnetism — attraction in oversized type](magnetism.fr-DESIGN.md) — https://refero.design/styles/50863986-da9a-4800-8abe-73b3d4df71df
+- [Mailchimp — editorial with a wink](mailchimp.com-DESIGN.md) — https://refero.design/styles/da58a9cf-db27-4ad0-b62c-cb10d623c279
+- [Mammoth Brands — monumental humanism](mammothbrands.com-DESIGN.md) — https://refero.design/styles/a62e0dcf-aa2b-4afb-ad4f-439d60f554ff
+- [Mana — fizzy illustrated exuberance](manayerbamate.com-DESIGN.md) — https://refero.design/styles/252e9b94-10b8-4911-8ebf-50ba25bdd444
+- [Maneken — blue stages, tangible outcomes](maneken.app-DESIGN.md) — https://refero.design/styles/80c85ed7-f2d4-41dc-a9d1-586016ce3431
+- [Manus — painted worlds, practical tools](manus.im-DESIGN.md) — https://refero.design/styles/e19a1762-b5a1-4fc7-abe8-622a92de04c2
+- [Mapbox — connected product worlds](mapbox.com-DESIGN.md) — https://refero.design/styles/af79455b-40dd-4c18-8a1a-7fac6104c964
+- [marco.fyi — a desk of possibilities](marco.fyi-DESIGN.md) — https://refero.design/styles/40a04522-466f-4a37-903a-12721c778561
+- [MasterClass — ambition on screen](masterclass.com-DESIGN.md) — https://refero.design/styles/da1ce87b-ea35-4365-bd45-42304f84907b
+- [Mastra — sculpted developer machinery](mastra.ai-DESIGN.md) — https://refero.design/styles/9778abf6-7130-40e2-b121-5aa4b13c8010
+- [Maxima Therapy — a world of play](maximatherapy.com-DESIGN.md) — https://refero.design/styles/32576795-a5d6-42fa-84d3-aa3f0003ffca
+- [Maze — human signal, digital texture](maze.co-DESIGN.md) — https://refero.design/styles/57720f32-55d6-437f-a302-f70d0454425e
+- [me.sh — luminous human orbits](me.sh-DESIGN.md) — https://refero.design/styles/a95bf7f0-1bdf-4244-af6c-eb1f35325cfd
+- [Melius — editorial image theatre](melius.com-DESIGN.md) — https://refero.design/styles/c186e2b0-30f5-4d65-a277-78b8bb44f09b
+- [Mercury — atmospheric everyday ambition](mercury.com-DESIGN.md) — https://refero.design/styles/a4f6a081-6711-4696-b9d0-97192e907949
+- [Merlin — conversational machinery at rest](merlin.computer-DESIGN.md) — https://refero.design/styles/a558d515-39c7-402d-9f1f-45cebcfc4110
+- [MetaMask — cutout kinetic optimism](metamask.io-DESIGN.md) — https://refero.design/styles/9b4a7a19-3051-464a-8806-bd5aa1b5d872
+- [Mews — notched panels, bold impact](mews.com-DESIGN.md) — https://refero.design/styles/d271c144-a51d-4388-9e15-46dd60a3e7de
+- [Micro — painterly work companions](micro.so-DESIGN.md) — https://refero.design/styles/52bb7d4e-6f01-46c8-884a-e8b8be855569
+- [Midday — serif meets ledger](midday.ai-DESIGN.md) — https://refero.design/styles/982ea6c9-90bb-44b3-ab46-259ba6c652e7
+- [Milanote — editorial creative workbench](milanote.com-DESIGN.md) — https://refero.design/styles/4d9c3e71-a859-466c-a7be-7d91a2f66d26
+- [MindMarket — exuberant human ribbons](mindmarket.com-DESIGN.md) — https://refero.design/styles/8812b143-0005-489d-bb49-68365a926880
+- [Minimal Collective — gridded cultural circuitry](minimalcollective.digital-DESIGN.md) — https://refero.design/styles/a4717ece-4eb9-4bc2-86a0-460192ac32e8
+- [Minimalissimo — objects before rhetoric](minimalissimo.com-DESIGN.md) — https://refero.design/styles/cf246cae-34d9-42e3-8686-5f07fe68322a
+- [Miro — ideas in company](miro.com-DESIGN.md) — https://refero.design/styles/121699d8-a8e3-4ade-9989-1eaae56cbca6
+- [Mistral — pixel warmth, industrial grids](mistral.ai-DESIGN.md) — https://refero.design/styles/1df52f52-31d7-4073-bf07-07b5ffb06845
+- [Miti Navi — sculpted maritime romance](miti-navi.com-DESIGN.md) — https://refero.design/styles/2c44932d-079b-4086-9514-6a4a09e594d3
+- [mmmmenu — monochrome stage, colorful outcomes](mmmmenu.app-DESIGN.md) — https://refero.design/styles/83ba6fdc-683c-4650-870e-4ebf8971a8b2
+- [Mobbin — interfaces as bright objects](mobbin.com-DESIGN.md) — https://refero.design/styles/23ae3257-6af0-4f2b-963b-9c93e1c23723
+- [Modal — luminous glyph machinery](modal.com-DESIGN.md) — https://refero.design/styles/59d297c3-873c-4c21-a1c7-51d97a1ae0f8
+- [Modern Treasury — money in fine lines](moderntreasury.com-DESIGN.md) — https://refero.design/styles/26f2c612-28f9-48bb-a9c9-e24d74c6fe87
+- [Moffitt.Moffitt. — culture on a stage](moffittmoffitt.com-DESIGN.md) — https://refero.design/styles/14c50514-5651-4b6b-aab6-27072b89f914
+- [Mollie — warm money in motion](mollie.com-DESIGN.md) — https://refero.design/styles/2c012b55-1575-4c7e-b04d-c5d641133d67
+- [Monad — editorial circuitry in pastels](monad.com-DESIGN.md) — https://refero.design/styles/0c62b93d-bd85-42bd-8f77-77005d327e6d
+- [Monarch — lived-in money clarity](monarch.com-DESIGN.md) — https://refero.design/styles/23441064-edc1-48e3-a939-54daf49812d1
+- [monday.com — playful work in motion](monday.com-DESIGN.md) — https://refero.design/styles/41f7b43f-879a-4095-8152-4b978bd4b12d
+- [Monocle — worldly print intelligence](monocle.com-DESIGN.md) — https://refero.design/styles/22fb269a-dcb5-4598-934a-d03775297171
+- [Moonly — cinematic soft enchantment](moonly.app-DESIGN.md) — https://refero.design/styles/a87b4e2e-30d1-48d7-8fd2-4b03f03b08e9
+- [Morflax — material playground](morflax.com-DESIGN.md) — https://refero.design/styles/fc0c3d36-d5c1-4a29-9115-8978d8940fa1
+- [Morgen — warm orbits after dark](morgen.so-DESIGN.md) — https://refero.design/styles/b23bbe44-377b-46f6-abc3-2364032a9aad
+- [Morphic — cinema meets workbench](morphic.com-DESIGN.md) — https://refero.design/styles/87e1e4de-57ed-4adb-96fa-50ea4eb06865
+- [Mother Design — objects before explanations](motherdesign.com-DESIGN.md) — https://refero.design/styles/a22b8320-c363-415f-8859-de6f1d1e5570
+- [MotherDuck — an outlined technical playground](motherduck.com-DESIGN.md) — https://refero.design/styles/18730818-79ca-43c3-bafc-a540daf027a2
+- [Mouthwash Studio — image-led typographic ballast](mouthwash.studio-DESIGN.md) — https://refero.design/styles/1dd33b98-caa6-4ca6-9572-47844825b7b0
+- [Moving Parts — oversized playful engineering](movingparts.io-DESIGN.md) — https://refero.design/styles/d505a5c8-b880-4ac9-8cf4-593f5f4d6311
+- [Mullvad — civic conviction, utilitarian warmth](mullvad.net-DESIGN.md) — https://refero.design/styles/8bf19c8f-bb07-4217-b839-051198fb7f17
+- [Munro Partners — landscape meets ledger](munropartners.com-DESIGN.md) — https://refero.design/styles/83fcbacf-7eb7-49ce-b7f8-07f5f6f4d3e3
+- [mymind — prismatic thought bubbles](mymind.com-DESIGN.md) — https://refero.design/styles/ee688af5-ff17-4083-bd98-aa10bd7da8ca
+- [n8n — soft machinery, human control](n8n.io-DESIGN.md) — https://refero.design/styles/c643c06f-c86b-4595-b54f-b51e53b646f3
+- [NaN — acid-green typographic playground](nan.xyz-DESIGN.md) — https://refero.design/styles/21a9531c-0d7f-4750-afa3-241dc84db2d3
+- [NCDA — monumental gallery rhythm](ncda.biz-DESIGN.md) — https://refero.design/styles/fa76fccf-223e-44a8-9c8b-c220e5379f06
+- [NEON — cinematic billboards and microtype](neonrated.com-DESIGN.md) — https://refero.design/styles/066f380d-5bc4-456f-a716-d9995a2f2c56
+- [Neon — phosphor signal machinery](neon.com-DESIGN.md) — https://refero.design/styles/640095e2-c865-4916-8d6b-c4f885d6d406
+- [Netflix — cinematic abundance, instant access](netflix.com-DESIGN.md) — https://refero.design/styles/90cabfeb-9815-47ae-b67e-d9bd1ffce57e
+- [Neuralink — the human frontier](neuralink.com-DESIGN.md) — https://refero.design/styles/44017f46-20d1-4d75-a5fa-1e8cf54d7171
+- [New Genre — horizons and hothouse craft](newgenre.studio-DESIGN.md) — https://refero.design/styles/35515b77-87e2-4e1b-8ed0-83c13548a690
+- [Next.js — outlined engineering confidence](nextjs.org-DESIGN.md) — https://refero.design/styles/97790a14-9efe-4406-bc44-a0ccc3e61d7a
+- [Niccolò Miranda — ink on spectacle](niccolomiranda.com-DESIGN.md) — https://refero.design/styles/fccd276e-3af9-49c2-9673-d7f7e3f5e9a9
+- [Nimble — routed lines, floating windows](gitnimble.com-DESIGN.md) — https://refero.design/styles/ce381b25-fcba-45a6-9519-447c2f4f1204
+- [Nominal — instrumented momentum](nominal.io-DESIGN.md) — https://refero.design/styles/be78c106-8eac-44b0-9ac1-97b2c6b64944
+- [nor.ma — material rituals, digital restraint](nor.ma-DESIGN.md) — https://refero.design/styles/9de9df5f-6ff6-40ba-9f3e-5fa7194c18d9
+- [North Kingdom — cinematic play at scale](northkingdom.com-DESIGN.md) — https://refero.design/styles/a9df281f-d000-436b-9148-90af45f5070d
+- [Nothing — machines meet culture](nothing.tech-DESIGN.md) — https://refero.design/styles/ef592ebd-48db-497b-935f-e0fdd0ef40ec
+- [Notion — work with a wink](notion.com-DESIGN.md) — https://refero.design/styles/9ebdf4f5-e978-4e1f-8c60-e5fdbd3b3c4a
+- [NotReal — gallery meets synthetic delight](notreal.tv-DESIGN.md) — https://refero.design/styles/3146c325-d684-497f-9e74-5e42cf58c72c
+- [Nous Research — electric humanist engravings](nousresearch.com-DESIGN.md) — https://refero.design/styles/1a667337-62a9-4fe3-9f5c-25aaf0372660
+- [Numbered — image theatre, monumental signatures](numbered.com-DESIGN.md) — https://refero.design/styles/321e0066-ec62-4ffb-8e82-c1c6b852dd53
+- [Nuxt — greenlit developer confidence](nuxt.com-DESIGN.md) — https://refero.design/styles/319d90de-91cd-4371-a7ea-8b1b87ab128f
+- [Obscura — pixel skies, human conviction](obscura.com-DESIGN.md) — https://refero.design/styles/667d8f18-ff66-49e2-b92c-d0070debd2f7
+- [Obsidian — tools for private thought](obsidian.md-DESIGN.md) — https://refero.design/styles/c089500f-32b2-4821-baad-a08ea2b625d8
+- [Oevra — diffuse light, staggered verse](oevra.com-DESIGN.md) — https://refero.design/styles/e0f1c67d-0b78-42db-ad75-67cedccfa954
+- [OFF+BRAND — orbital colour, oversized words](itsoffbrand.com-DESIGN.md) — https://refero.design/styles/f56701a4-ed04-4019-a699-afdbe979d9ec
+- [Oker — showreel meets ledger](oker.com-DESIGN.md) — https://refero.design/styles/3a839e5d-19fc-4b3f-8bcc-2a2614f32ef7
+- [Okta — luminous enterprise editorial](okta.com-DESIGN.md) — https://refero.design/styles/97aad0f3-878a-4a97-a147-91d3c50c593a
+- [Oku — ink and companionship](oku.club-DESIGN.md) — https://refero.design/styles/02e73826-e911-4cdc-b23d-7aabce7a8a27
+- [OLIPOP — soda-shop sunshine](drinkolipop.com-DESIGN.md) — https://refero.design/styles/1bfb0316-3a14-4742-a75f-503c6a25d32d
+- [ON.energy — industrial voltage cinema](on.energy-DESIGN.md) — https://refero.design/styles/469b0e84-99bd-4c4f-9019-b244968a2d7e
+- [OpenAI — intelligence in living color](openai.com-DESIGN.md) — https://refero.design/styles/f8e68ada-c0a8-45eb-a2a4-33c138b6f6a8
+- [OpenSea — collectibles under glass](opensea.io-DESIGN.md) — https://refero.design/styles/61804dea-d56d-48b8-9e18-e4d14da6bb36
+- [Operate — punched paper machinery](operate.so-DESIGN.md) — https://refero.design/styles/11aba573-a419-4b77-8b6f-39da23f8c5ba
+- [OPX Studio — black stage, oversized statements](opx.studio-DESIGN.md) — https://refero.design/styles/b82728c6-07f0-41cd-8534-59731c3380b0
+- [Orbi — spectrum and sidekick](heyorbi.com-DESIGN.md) — https://refero.design/styles/62cd0112-059c-4b84-811e-6304343ef7a4
+- [Orchid — dreamlike everyday delegation](orchid.ai-DESIGN.md) — https://refero.design/styles/86431154-28ce-4c0a-9167-e3adb89437e8
+- [Origin — nature behind intelligence](useorigin.com-DESIGN.md) — https://refero.design/styles/f153be24-603b-43bb-ba54-6eafaa4ffe60
+- [Osmo — playful developer machinery](osmo.supply-DESIGN.md) — https://refero.design/styles/02fd73e7-cc40-4b42-960e-2face1a1c93a
+- [Oura — human warmth, engineered depth](ouraring.com-DESIGN.md) — https://refero.design/styles/3ae00963-4b55-42b1-8a95-806f93745d1b
+- [Overflow — luminous product storytelling](overflow.io-DESIGN.md) — https://refero.design/styles/d6675c59-0f67-47d3-ba33-eb1f0beff625
+- [Oxide — the instrument room](oxide.computer-DESIGN.md) — https://refero.design/styles/3d06762e-de1f-48d8-90be-685f9c6e3708
+- [Palette Supply — sunlit studio catalogue](palette.supply-DESIGN.md) — https://refero.design/styles/473a6e8f-3a5a-4c70-81bb-dabde634df40
+- [Palette — charcoal with a sunset](askpalette.com-DESIGN.md) — https://refero.design/styles/dc990739-a034-4c22-86f8-88e408897d6d
+- [Pally — paper objects, living conversations](pally.com-DESIGN.md) — https://refero.design/styles/7a4bb3d6-6523-4154-a156-79e3bc1a1d8d
+- [Pam — condensed type, expansive images](thisispam.com-DESIGN.md) — https://refero.design/styles/8b888b2c-5f6e-4cfa-b1b8-40ef683394d0
+- [PamPam — sunlit tools for everyone](pampam.city-DESIGN.md) — https://refero.design/styles/098f63bf-54fc-46b4-8044-3282cf8a0952
+- [Pangram Pangram — specimen meets spectacle](pangrampangram.com-DESIGN.md) — https://refero.design/styles/805366d5-cd27-4714-815d-d6d478471968
+- [Paper — the tactile drafting canvas](paper.design-DESIGN.md) — https://refero.design/styles/68b87991-2fcc-4907-8728-f348d8221619
+- [Papermark — cinematic business confidence](papermark.com-DESIGN.md) — https://refero.design/styles/c66ea1dc-2451-424a-b464-42a166b435bf
+- [Paradigm — editorial workflow theatre](paradigmai.com-DESIGN.md) — https://refero.design/styles/7400d6a2-31ca-4885-92c3-b051003a002a
+- [Parallel — cinematic human potential](useparallel.com-DESIGN.md) — https://refero.design/styles/d99690e6-e4c7-462d-b03f-69467b22cfd3
+- [Parallel — ruled grids, luminous machinery](parallel.ai-DESIGN.md) — https://refero.design/styles/c576aa60-db9d-4791-818c-04d18ef69e29
+- [Partiful — flashbulbs and flyer energy](partiful.com-DESIGN.md) — https://refero.design/styles/0089a3ee-da82-47b9-abbf-fbe00717088f
+- [Passionfroot — storybook software theatre](passionfroot.me-DESIGN.md) — https://refero.design/styles/94e47366-5bfb-4a2f-8b98-d70247d6f5cf
+- [Paste — warm device theatre](pasteapp.io-DESIGN.md) — https://refero.design/styles/16077cc8-f8da-4331-9bb3-d5aa3f101987
+- [Patreon — human scale, billboard type](patreon.com-DESIGN.md) — https://refero.design/styles/d39493de-ed3d-4589-941b-8801671d53f5
+- [Peak Design — fieldwork meets editorial](peakdesign.com-DESIGN.md) — https://refero.design/styles/2598b282-a087-4f9c-b902-6590ee33bf4f
+- [Peggy — gallery walls, looping lines](peggy.com-DESIGN.md) — https://refero.design/styles/65bb0c41-a833-4ae4-8340-447d066f7ed4
+- [Peloton — human energy, engineered ease](onepeloton.com-DESIGN.md) — https://refero.design/styles/1137b9b3-e670-4e4a-9292-84589dbb3ec4
+- [Penpot — playful systems at scale](penpot.app-DESIGN.md) — https://refero.design/styles/fb2912f3-839f-4ffd-914e-0851b85f8019
+- [Pentagram — work as exhibition](pentagram.com-DESIGN.md) — https://refero.design/styles/d1ace194-0564-41e4-93e4-092cf61a0fcf
+- [Peter Tarka — floating worlds, ruled ground](petertarka.com-DESIGN.md) — https://refero.design/styles/7253bef8-453b-49e3-9b07-2cba869320af
+- [Phoebe — pastel worlds at work](phoebe.work-DESIGN.md) — https://refero.design/styles/a64501c2-6904-49ee-b7d7-ae0c16c806b5
+- [Pika — cinematic creative bravado](pika.art-DESIGN.md) — https://refero.design/styles/a881e628-dd90-414a-9a73-e7e43b67c96f
+- [Pirsch — cream cards, mint signals](pirsch.io-DESIGN.md) — https://refero.design/styles/c460f2fa-50b0-461b-83b3-aa9cd65bf3c9
+- [Piszczek — terminal-lit conviction](piszczek.pl-DESIGN.md) — https://refero.design/styles/7d7bb426-03ca-4163-8c09-e68ca7d4d92b
+- [Pitch — purple stagecraft for teams](pitch.com-DESIGN.md) — https://refero.design/styles/f8a73a93-7312-4845-a507-2a511b5b8de2
+- [Plaid — engraved electric optimism](plaid.com-DESIGN.md) — https://refero.design/styles/78d3afcc-b61d-4b1f-b723-541e7f751082
+- [Plain — green circuitry, human ease](plain.com-DESIGN.md) — https://refero.design/styles/4459e902-befe-416c-b231-5c6b30660deb
+- [PlanetScale — the technical ledger](planetscale.com-DESIGN.md) — https://refero.design/styles/449603a6-d35f-443d-8160-82d0581811ee
+- [Platform — gallery meets release poster](platformart.com-DESIGN.md) — https://refero.design/styles/7f745550-9cda-4fb8-a55b-bfc4d8c363eb
+- [Playdate — pocket-sized exuberance](play.date-DESIGN.md) — https://refero.design/styles/1383e2df-8a27-4b20-868e-40286effd350
+- [Ploy — inflatable industrial optimism](ploy.ai-DESIGN.md) — https://refero.design/styles/fea0e986-b488-44c3-b2f7-49a0146ded64
+- [Podium — fieldwork meets sculpture](podium.global-DESIGN.md) — https://refero.design/styles/f46dfe11-dae4-4ee5-9861-90b4ae150c0d
+- [Polar — monochrome kinetic instruments](polar.sh-DESIGN.md) — https://refero.design/styles/12d67d6a-5ac5-4e9c-9fad-af5584992c32
+- [Pool — painted worlds, practical tools](poolmoney.com-DESIGN.md) — https://refero.design/styles/5afe7551-1cb3-4778-ab39-a5cceb986016
+- [Pop Site — polished product parade](pop.site-DESIGN.md) — https://refero.design/styles/a6873754-6ddb-483b-b1a7-c45d2d0b07d1
+- [Popcorn — airborne editorial optimism](popcorn.space-DESIGN.md) — https://refero.design/styles/376dcb6f-a784-4857-a28a-07f0f8a865f8
+- [Portal — painted horizons, tactile tools](useportal.net-DESIGN.md) — https://refero.design/styles/b7889213-666c-44d3-9552-e79de85c5e46
+- [PORTO ROCHA — a living editorial deck](portorocha.com-DESIGN.md) — https://refero.design/styles/ef17f1da-85e9-40fb-bd22-05cc2927b302
+- [Postevand — ruled object theatre](postevand.com-DESIGN.md) — https://refero.design/styles/fa1fec1f-5b13-42cf-8440-d89b4b323cc8
+- [Preply — pink powered people](preply.com-DESIGN.md) — https://refero.design/styles/dc41e1b4-30de-459e-a044-31190abf07a6
+- [Presentable — magenta after dark](makepresentable.com-DESIGN.md) — https://refero.design/styles/2bb60beb-0f26-4e07-8621-9d3948dc5daf
+- [Prime Intellect — luminous systems wilderness](primeintellect.ai-DESIGN.md) — https://refero.design/styles/04552365-1d5f-4153-a76b-487559eabd0a
+- [Primefold — cinematic questions, tangible answers](primefold.ai-DESIGN.md) — https://refero.design/styles/dc2025dd-3048-41fc-8bb6-96b3a7b1afa6
+- [Prisma — spectrum-lit workbench](prisma.io-DESIGN.md) — https://refero.design/styles/db206788-1a5b-44c2-b7de-93a4f1b8ba60
+- [Privy — luminous product machinery](privy.io-DESIGN.md) — https://refero.design/styles/fc2dd49a-071b-42b8-84ee-d0e4b5c473b6
+- [Programa — editorial workbench in motion](programa.design-DESIGN.md) — https://refero.design/styles/3c11cdf6-ade3-4dbb-b1a7-6f27bd19d983
+- [Promova — pastel blocks, fearless play](promova.com-DESIGN.md) — https://refero.design/styles/abab2bda-e656-407c-8834-ac1dc166aa85
+- [Proofmode — slab meets pixel field](proofmode.org-DESIGN.md) — https://refero.design/styles/10ca1b5a-7997-40f5-a7c2-94d77fb9629f
+- [Proton — soft light, firm convictions](proton.me-DESIGN.md) — https://refero.design/styles/d531a088-bada-4f2e-aa02-d01e13fdea07
+- [ProtoPie — pastel product playgrounds](protopie.io-DESIGN.md) — https://refero.design/styles/8c65de07-66ac-4112-ace6-52beacc4aedf
+- [Pryzm — luminous specimens in darkness](pryzm.design-DESIGN.md) — https://refero.design/styles/50affde9-9d04-411e-956f-52f1079145db
+- [Public — editorial meets machinery](public.com-DESIGN.md) — https://refero.design/styles/0269157b-1cab-46fa-9812-80dda94feafc
+- [Qonto — business in motion](qonto.com-DESIGN.md) — https://refero.design/styles/9f374b58-ee19-496c-baf1-c3a3b137a6e1
+- [Quin — paper, pinstripes and sunshine](heyquin.io-DESIGN.md) — https://refero.design/styles/0a08fdf5-688c-4cb3-9a24-5d6937efac61
+- [Radial — sunlit ripples of reassurance](meetradial.com-DESIGN.md) — https://refero.design/styles/56f19cef-b570-4d8e-8e6b-e0b08a739f73
+- [Ragged Edge — worlds in motion](raggededge.com-DESIGN.md) — https://refero.design/styles/bfae2e30-89e3-40a7-9f7f-0ce2c44aa63e
+- [Railway — night trains and cloudscapes](railway.com-DESIGN.md) — https://refero.design/styles/8cafa6d7-0689-4ae6-abc3-c3b60a1a1060
+- [Rainbow — pocket-sized luminous theater](rainbow.me-DESIGN.md) — https://refero.design/styles/064f0a5f-81b5-47b9-b97f-53ff387b9242
+- [Rains — monumental material encounters](rains.com-DESIGN.md) — https://refero.design/styles/7422f5a6-dc6f-41d6-a5b4-0adc682a2aae
+- [Rasa — lantern-lit inner space](rasaapp.com-DESIGN.md) — https://refero.design/styles/f93cf24d-e019-40ba-b8d9-34f1b52cfc32
+- [Raus — paper, pasture and play](raus.life-DESIGN.md) — https://refero.design/styles/95da4c27-8487-469d-8cea-ee77d314ae47
+- [Raycast — luminous command surfaces](raycast.com-DESIGN.md) — https://refero.design/styles/41e57a6c-c054-4b57-814b-2eb963e4077a
+- [re grocery — refillable editorial play](regrocery.co-DESIGN.md) — https://refero.design/styles/18c5dc9a-6160-462f-9fd1-b29bab9666aa
+- [Readwise — paper in sunlight](readwise.io-DESIGN.md) — https://refero.design/styles/9ac1d116-0743-490c-acae-0feb6c3d2785
+- [Ready — multiplayer on paper](ready.so-DESIGN.md) — https://refero.design/styles/4765ae5d-897d-415c-92c1-28d72708872a
+- [Real Food — monumental civic conviction](realfood.gov-DESIGN.md) — https://refero.design/styles/cd867d28-8c47-409b-931c-c2c4f5508675
+- [reboot — prose with playful objects](reboot.studio-DESIGN.md) — https://refero.design/styles/6836a3c4-1c60-4ef6-a476-f2aeb98e2719
+- [Recess — pastel daydream playground](takearecess.com-DESIGN.md) — https://refero.design/styles/f17c6f27-a254-4031-b5c3-4de6f2f5535f
+- [Redis — midnight data machinery](redis.io-DESIGN.md) — https://refero.design/styles/f1e446c4-4b53-4f15-ab46-38d7baa06b0c
+- [Reevo — condensed posters, pixel patchwork](reevo.ai-DESIGN.md) — https://refero.design/styles/d7e51989-3026-47e9-8f4f-4449e5222788
+- [Refero — editorial taste, tool-like clarity](refero.design-DESIGN.md) — https://refero.design/styles/4811f59f-38b2-4ce1-8cd4-136bc55c59cd
+- [Reflag — the developer workbench](reflag.com-DESIGN.md) — https://refero.design/styles/d26e085c-fb77-4a28-9416-2b9edc580be9
+- [REKKI — night shift optimism](rekki.com-DESIGN.md) — https://refero.design/styles/154c0227-2efd-456b-9cdd-599909cf06be
+- [Relate — blue horizons for work](relate.so-DESIGN.md) — https://refero.design/styles/5958c0a4-a549-4f5c-9a8a-c26a1ebfd4f0
+- [Render — infrastructure in playful squares](render.com-DESIGN.md) — https://refero.design/styles/e52ca0e2-503a-4eec-8e97-41e87f0c9ad5
+- [Replay — jewelbox desktop delight](replay.software-DESIGN.md) — https://refero.design/styles/ecb21331-c54e-49d9-b817-da9194ab22ce
+- [Replicate — electric developer workbench](replicate.com-DESIGN.md) — https://refero.design/styles/6c58f73f-40e4-4b71-9a95-46ece0324aa9
+- [Replit — warm tools, vivid possibilities](replit.com-DESIGN.md) — https://refero.design/styles/daf08946-69c8-41c3-b6ea-9aaaef8f43b3
+- [Rerun — prismatic engineering playground](rerun.io-DESIGN.md) — https://refero.design/styles/ba0a9778-b98b-45f4-9659-00c749bb4638
+- [Resend — sculpted midnight machinery](resend.com-DESIGN.md) — https://refero.design/styles/886404bc-de78-4ac9-b224-d405072c4bc0
+- [Resident — objects in open space](resident.co.nz-DESIGN.md) — https://refero.design/styles/8ee5ce5e-002b-4e33-a976-3a528a959b95
+- [Retool — production in the spotlight](retool.com-DESIGN.md) — https://refero.design/styles/19e2e29c-7ceb-40b9-8364-ec8ccc21936d
+- [RevenueCat — pastel tools afloat](revenuecat.com-DESIGN.md) — https://refero.design/styles/5ae65e2e-f908-41c2-bb29-6b0ec904833e
+- [Revolut — everyday life, sculpted](revolut.com-DESIGN.md) — https://refero.design/styles/a440d153-76b5-466f-854b-f2c9324ce7c4
+- [rig.ai — blue signal infrastructure](rig.ai-DESIGN.md) — https://refero.design/styles/a6ff0dcc-164f-49ec-92b4-878155599ae3
+- [Rive — angular type, electric stages](rive.app-DESIGN.md) — https://refero.design/styles/6f269fa6-a794-400d-95e7-041dda1d85d6
+- [Riverside — studio scale, human energy](riverside.com-DESIGN.md) — https://refero.design/styles/5f1cf7c0-69a2-45c5-85b7-9ccd64fb6f5b
+- [Roberta’s Pizza — halftone and revelry](robertaspizza.com-DESIGN.md) — https://refero.design/styles/3bccc923-6f39-4c02-a52b-aa994ea82253
+- [Robinhood — electric editorial spectacle](robinhood.com-DESIGN.md) — https://refero.design/styles/fe77f992-da94-4467-a9c4-30b5132acde0
+- [Rox — human-scale machinery](rox.com-DESIGN.md) — https://refero.design/styles/d543aaef-bc1d-4f35-9031-bffc26ed9548
+- [Rulebase — carved matter, live signals](rulebase.co-DESIGN.md) — https://refero.design/styles/41809053-363c-4263-ac1d-dbdc4d7c9506
+- [Sanity — editorial meets machinery](sanity.io-DESIGN.md) — https://refero.design/styles/e9d222ac-0f96-4732-ae94-ac8b6517bb4e
+- [Savee — taste between the words](savee.com-DESIGN.md) — https://refero.design/styles/e08216ce-cd39-4c15-9b4d-8ec2286e0d76
+- [savor.it — sensory science in motion](savor.it-DESIGN.md) — https://refero.design/styles/4f18f617-65bb-40e1-9ac8-42b92bd92c00
+- [SavvyCal — cream, coils and candor](savvycal.com-DESIGN.md) — https://refero.design/styles/6befb6ed-0cfa-4dcf-8b86-e7f0381e0b07
+- [SayBriefly — pencil trails and relief](saybriefly.com-DESIGN.md) — https://refero.design/styles/e98fa587-e618-4bd7-b201-87523e80dc02
+- [Scotch — black glass, bright work](scotchpos.com-DESIGN.md) — https://refero.design/styles/2c855528-5c6a-49a7-97ca-047c141b9b23
+- [Screen Studio — polished in motion](screen.studio-DESIGN.md) — https://refero.design/styles/e293d460-dcb0-4026-aecd-53a08f7f6ff4
+- [Seed — living science, domestic ritual](seed.com-DESIGN.md) — https://refero.design/styles/6829b722-acef-4cbe-90be-41ba66c905d1
+- [Seline — paper, sky and doodles](seline.com-DESIGN.md) — https://refero.design/styles/1d808e6c-9123-4805-b950-dda84cf0040b
+- [Sentry — neon mischief at work](sentry.io-DESIGN.md) — https://refero.design/styles/a8874dfd-0fbc-43a6-9e77-f1d19b78af61
+- [Sequel — cinematic ambition, editorial poise](sequel.co-DESIGN.md) — https://refero.design/styles/7c6a0ac4-c22c-4461-840c-302f7b512401
+- [Sequence — editorial automation atmosphere](sequencehq.com-DESIGN.md) — https://refero.design/styles/6d66506b-6c3a-4680-a866-2811fba5ad12
+- [Serro — software as instrument panel](serro.ai-DESIGN.md) — https://refero.design/styles/b5e299df-6ce9-4a9f-a977-31b1f7844abd
+- [Set Space — cinematic field notes](set.space-DESIGN.md) — https://refero.design/styles/1dcc6732-093a-4821-8690-21c62b8dfdd4
+- [shadcn — components as the canvas](shadcn.com-DESIGN.md) — https://refero.design/styles/200b455f-0b23-459c-99dc-421439de886b
+- [Shade — backstage neon utility](shade.inc-DESIGN.md) — https://refero.design/styles/cd984fab-f859-4d70-b8aa-142cb0de4fc3
+- [Shader — analog dream theatre](shader.se-DESIGN.md) — https://refero.design/styles/156fc893-1a3a-4a94-8011-af8fce05b61f
+- [Shelby Kay — earthbound typographic choreography](shelbykay.dev-DESIGN.md) — https://refero.design/styles/99820df6-4b6d-41c5-8365-8ec341e8dc1e
+- [Shopify Design — oversized words, playful objects](shopify.design-DESIGN.md) — https://refero.design/styles/351495f1-7cdc-4bde-a189-6908bdf6097b
+- [Shopify Supply — studio goods, electric edges](shopify.supply-DESIGN.md) — https://refero.design/styles/c9514cc3-7124-470a-9397-36f1dee45738
+- [Shopify — ambition in motion](shopify.com-DESIGN.md) — https://refero.design/styles/18e77c6d-d4dd-4add-bdd3-d32d2d8994b9
+- [Shortverse — illustrated creative orbit](shortverse.com-DESIGN.md) — https://refero.design/styles/24235b87-43f1-4d2f-8e50-17d8407f626d
+- [Sigma — instruments meet image-making](sigmaphoto.com-DESIGN.md) — https://refero.design/styles/92448a6e-3c07-4ef2-a794-aea3888ee416
+- [Sigma — luminous utility stages](sigmabrowser.com-DESIGN.md) — https://refero.design/styles/8652e0f9-fa62-4511-ae6a-5adf9315477c
+- [Signal — friendly conviction in blue](signal.org-DESIGN.md) — https://refero.design/styles/be9a3385-fbf2-48dd-b676-4e59e7a0bd53
+- [SILO — objects before words](silosilosilo.com-DESIGN.md) — https://refero.design/styles/52a61443-7deb-43c7-9510-9485d2f1f687
+- [Sketch — tactile tools, editorial warmth](sketch.com-DESIGN.md) — https://refero.design/styles/7438a729-6ae1-4730-96bd-a2a06bac189a
+- [Skillshare — creative momentum in loops](skillshare.com-DESIGN.md) — https://refero.design/styles/b8ffa8c8-1114-4649-889b-abf76f658ea2
+- [Slab — plum and paper](slab.com-DESIGN.md) — https://refero.design/styles/1fe44df0-b2fe-4c87-b4ac-9a610ec85906
+- [Slack — conversation at full scale](slack.com-DESIGN.md) — https://refero.design/styles/a1ce88e7-a234-4c81-a5b8-392d5cc159ae
+- [Slash — serif in the shadows](slash.com-DESIGN.md) — https://refero.design/styles/350e0391-9d87-4830-8d2b-826b3e9fc795
+- [Smiling Wolf — culture in the margins](smilingwolf.co.uk-DESIGN.md) — https://refero.design/styles/ad5df75c-87cc-40f7-8388-cd3919bc4589
+- [Sociotype — specimens at monumental scale](socio-type.com-DESIGN.md) — https://refero.design/styles/fbd96489-83f9-4dce-9b75-2b8aec893831
+- [SoFi — luminous connected frontiers](sofi.com-DESIGN.md) — https://refero.design/styles/a2fc9991-0b06-4037-9975-41f054b30e91
+- [Solidroad — alpine editorial optimism](solidroad.com-DESIGN.md) — https://refero.design/styles/5516b3c8-6249-4d58-b7d7-c79cc62caa92
+- [SoundCloud — culture in full volume](soundcloud.com-DESIGN.md) — https://refero.design/styles/b32046e2-491b-4918-8245-fa98afc41dc5
+- [Sourcegraph — grids and coral signals](sourcegraph.com-DESIGN.md) — https://refero.design/styles/243e5bba-b6bc-483d-9a0b-6413968ba15c
+- [SpaceX — engineering at cinematic scale](spacex.com-DESIGN.md) — https://refero.design/styles/f3f3ccec-c601-4bb7-a3c7-e6f20c735990
+- [Splice — electric creator stages](splice.com-DESIGN.md) — https://refero.design/styles/339ec9a5-2948-4689-8278-e33514698a99
+- [Spline — a stage for making](spline.design-DESIGN.md) — https://refero.design/styles/0ad191bb-9032-4107-8e1e-55148b1638dc
+- [Spring/Summer — billboard meets scrapbook](springsummer.dk-DESIGN.md) — https://refero.design/styles/2b840198-cea4-458d-923f-15b2d7b5c837
+- [Sprout Social — rounded stages, vivid impact](sproutsocial.com-DESIGN.md) — https://refero.design/styles/905c738f-874d-4cee-b429-f7a16875aad0
+- [SquadEasy — big type, paper people](squadeasy.com-DESIGN.md) — https://refero.design/styles/a147a778-28c0-48e7-bea4-54291af34751
+- [Square — commercial theatre, editorial soul](squareup.com-DESIGN.md) — https://refero.design/styles/14641c44-99c8-47fb-a257-e06b0f5f5756
+- [Squarespace — ambition on a stage](squarespace.com-DESIGN.md) — https://refero.design/styles/b7a2d1f7-a4f8-4352-bc55-4d0831506f56
+- [Stability AI — cinematic tools, human possibility](stability.ai-DESIGN.md) — https://refero.design/styles/b9175c78-8a44-4a17-bae8-7d1e8c5b38e0
+- [Stable Audio — grain and signal](stableaudio.com-DESIGN.md) — https://refero.design/styles/5af739a2-4e59-4dc1-ae58-beb8ac18585f
+- [Stark — marker-bright software optimism](getstark.co-DESIGN.md) — https://refero.design/styles/4edb51e9-13ec-4241-9e38-122dd984fc2c
+- [State of AI Design — botanical signal, editorial scale](stateofaidesign.com-DESIGN.md) — https://refero.design/styles/bd4d13ed-7ace-4ed0-ae60-c3713d3e9c8f
+- [Steep — editorial machinery and starlight](steep.app-DESIGN.md) — https://refero.design/styles/7dcd1ac4-7c0d-44f9-954a-abfe57d7de6a
+- [Step — electric pink confidence](step.com-DESIGN.md) — https://refero.design/styles/f9e2c945-0f2a-48d5-bd1a-e6bd581bad50
+- [Stocketa — prismatic pocket theater](stocketa.com-DESIGN.md) — https://refero.design/styles/c5460593-a894-4482-9538-6acafa463994
+- [Strava — shared momentum, orange heat](strava.com-DESIGN.md) — https://refero.design/styles/dd3513c1-ac8a-48dd-a74c-1036c3ff333b
+- [Strawberry — friendly tools, tiled light](strawberrybrowser.com-DESIGN.md) — https://refero.design/styles/891b6d7a-3d84-4dfb-bb0f-c60699386932
+- [Streamtime — paper play at work](streamtime.net-DESIGN.md) — https://refero.design/styles/29eb5261-e28d-4992-a159-8105459c3256
+- [Stripe — spectral infrastructure](stripe.com-DESIGN.md) — https://refero.design/styles/13ed6122-4e6e-41a4-91cd-586f497cce61
+- [Strut — paper meets acid](strut.so-DESIGN.md) — https://refero.design/styles/779c44e1-816c-4e8c-8629-7dc2ced051e5
+- [Studio.Design — diagonal creative freedom](studio.design-DESIGN.md) — https://refero.design/styles/47c68929-d023-4399-8865-561a699167b9
+- [Stykka — lived-in modular modernism](stykka.com-DESIGN.md) — https://refero.design/styles/db111752-c498-40a0-9e84-33ad20df5564
+- [Subframe — tools as sculptures](subframe.com-DESIGN.md) — https://refero.design/styles/47e1e357-1adf-4d65-9e25-a7508d64397c
+- [Sublime — ideas growing wild](sublime.app-DESIGN.md) — https://refero.design/styles/4ea58a15-941e-43de-90e1-2e534e2cbd36
+- [Sui — electric machine horizons](sui.io-DESIGN.md) — https://refero.design/styles/ee433c07-9a31-4556-bbe2-f400586f92a9
+- [Sunday — machines at home](sunday.ai-DESIGN.md) — https://refero.design/styles/c75b49c3-b2a0-4fb7-8155-e2524cb63deb
+- [Suno — creative heat after dark](suno.com-DESIGN.md) — https://refero.design/styles/ccd06f82-f637-4a86-8e5e-2ef7ce232cc6
+- [Supabase — open toolkit optimism](supabase.com-DESIGN.md) — https://refero.design/styles/6a4c6f6c-9244-4208-8637-88f8e475debb
+- [SuperHi — playground meets practical](superhi.com-DESIGN.md) — https://refero.design/styles/51cbe073-d646-402f-b8dd-1f127c5d1fd6
+- [Superhuman — work in technicolor](superhuman.com-DESIGN.md) — https://refero.design/styles/29a9a742-5aec-46a1-b80e-b8470bbde284
+- [Superlist — room for real life](superlist.com-DESIGN.md) — https://refero.design/styles/bf6a1d0c-f6f7-4165-a299-234413679b21
+- [Superpower — human warmth, clinical clarity](superpower.com-DESIGN.md) — https://refero.design/styles/f1e62bfb-3b0b-4acb-9f75-f4f2a5ea3b45
+- [Superr — paper, play and possibility](superr.ai-DESIGN.md) — https://refero.design/styles/90c08b66-ee6d-41c4-a36d-e1b1e0b64b87
+- [Superset — terminals with stage lighting](superset.sh-DESIGN.md) — https://refero.design/styles/edc3b750-8568-48e4-b537-a082e8bf1314
+- [Superwhisper — dusk-lit desktop theatre](superwhisper.com-DESIGN.md) — https://refero.design/styles/bc9354a4-106c-4284-a8a3-04763934bb84
+- [Surfshark — playful protection collages](surfshark.com-DESIGN.md) — https://refero.design/styles/63ae3f4f-de5a-4e78-9bb3-ceffee208e25
+- [Svelte — an editorial workshop](svelte.dev-DESIGN.md) — https://refero.design/styles/b14e3d3f-928e-4ff9-a2a7-057386cc254c
+- [SVZ — grotesk meets tactile theater](svz.io-DESIGN.md) — https://refero.design/styles/c6b6289a-7a5d-4518-b7af-53bbfeceae25
+- [Sweetgreen — sunlit appetite editorial](sweetgreen.com-DESIGN.md) — https://refero.design/styles/d59df660-8f1a-438f-9c50-f210b2eeb229
+- [Symbol Audio — tactile modernist listening](symbolaudio.com-DESIGN.md) — https://refero.design/styles/9a06c9d3-18ff-4c02-a348-911d6e339373
+- [Synthesia — people on a luminous stage](synthesia.io-DESIGN.md) — https://refero.design/styles/2ffca3a2-36c6-4cb8-9dfd-f0dbdfdb1f45
+- [T1 Energy — monumental industrial optimism](t1energy.com-DESIGN.md) — https://refero.design/styles/d8e5f0e4-9f02-4845-b52d-6a48ac7d7dc7
+- [Tailark — miniature worlds on paper](tailark.com-DESIGN.md) — https://refero.design/styles/7e838ed5-faad-45f9-b9ad-e8229525b529
+- [Tailscale — human-scale technical confidence](tailscale.com-DESIGN.md) — https://refero.design/styles/78ef5332-d373-4baf-b2a7-ebffa46f32b6
+- [Tailwind CSS — the ruled playground](tailwindcss.com-DESIGN.md) — https://refero.design/styles/ff9b9f65-9ed1-4d3f-86e2-3133945879f6
+- [Taito.ai — everyday life, automated](taito.ai-DESIGN.md) — https://refero.design/styles/756869ba-0279-4bd0-a027-42faa3707933
+- [Tally — doodles meet documents](tally.so-DESIGN.md) — https://refero.design/styles/dbd841f2-12e7-4b5c-b5b8-94ded944643b
+- [Tana — work through a prism](tana.inc-DESIGN.md) — https://refero.design/styles/d03d6213-50b3-4514-9a5d-6afc6f215074
+- [Tapbots — toys with a purpose](tapbots.com-DESIGN.md) — https://refero.design/styles/889337e0-2d2c-4980-a9b5-2bca2cb5394d
+- [teenage engineering — equipment meets fight poster](teenage.engineering-DESIGN.md) — https://refero.design/styles/8b0c66e4-0163-4880-b27f-3fd0fc39264e
+- [Telepathic Instruments — tactile machines, digital magic](telepathicinstruments.com-DESIGN.md) — https://refero.design/styles/359661b2-0dca-452c-9ae0-b577d46a454a
+- [Tella — luminous creative workbench](tella.com-DESIGN.md) — https://refero.design/styles/8b9f40b6-a644-4232-b91e-9bd6b9e76e2d
+- [Tempo — momentum on pale ground](tempo.xyz-DESIGN.md) — https://refero.design/styles/b609cad6-856c-4986-a048-52c05f26340b
+- [Temporal — neon systems optimism](temporal.io-DESIGN.md) — https://refero.design/styles/843c167e-edfa-4d0d-aa83-06d7e8db7097
+- [The New Yorker — wit in print](newyorker.com-DESIGN.md) — https://refero.design/styles/5349ab39-7e39-4f7f-b6d1-79967ec8e672
+- [The Resonance — blue-lit instruments](theresonance.studio-DESIGN.md) — https://refero.design/styles/8a534941-9af5-42b7-97e1-3ff9ffca9958
+- [The Verge — editorial voltage](theverge.com-DESIGN.md) — https://refero.design/styles/617b43b9-5685-46a3-ab84-ba0b77d0ac33
+- [THE1 — civic poster theatre](the1.amsterdam-DESIGN.md) — https://refero.design/styles/1241cf93-0866-41e4-b54e-05d45f9e7bcd
+- [three.tools — molten objects, developer candor](three.tools-DESIGN.md) — https://refero.design/styles/2fad956a-2b78-4ee5-b56c-758c9a8997f2
+- [Tilt — heavyweight with a human turn](tilt.com-DESIGN.md) — https://refero.design/styles/f63c237b-931f-4e1e-8e81-ad38f448aa16
+- [Tines — enterprise in bloom](tines.com-DESIGN.md) — https://refero.design/styles/8acf9301-937c-4988-8bee-20f94d22667d
+- [Titan — lived-in institutional theatre](titan.com-DESIGN.md) — https://refero.design/styles/8bcd5419-043c-41e6-8cc5-1ff8ffb98d9b
+- [ToDesktop — luminous software machinery](todesktop.com-DESIGN.md) — https://refero.design/styles/3aaa1246-d7c6-4e83-8bdf-6e6642375268
+- [Together AI — translucent systems playground](together.ai-DESIGN.md) — https://refero.design/styles/8f6d67fc-5b06-4d42-ab84-92d1a10a00ed
+- [Toggl — soft clockwork optimism](toggl.com-DESIGN.md) — https://refero.design/styles/bec01cfb-585a-4938-9db6-7465c88158f2
+- [Tokens Studio — tooling as toybox](tokens.studio-DESIGN.md) — https://refero.design/styles/8141252a-409a-4a71-89fe-b15a1a21bddf
+- [Tomorro — sculptural green optimism](tomorro.com-DESIGN.md) — https://refero.design/styles/2a83372b-1cb7-4335-9a1c-9dc213e264d8
+- [Tonal — architectural strength, expanded](tonal.com-DESIGN.md) — https://refero.design/styles/20e38d21-2939-4c3a-8da3-e5dce2aaea0a
+- [Topology — prismatic relief, dark index](topology.vc-DESIGN.md) — https://refero.design/styles/f42482e4-a526-4068-87ae-7f3413be07e0
+- [Traffic Productions — serpentine rules, acid interruptions](traffic.productions-DESIGN.md) — https://refero.design/styles/7fbe4e58-ba85-4dc3-a862-2b7a68d74d27
+- [Trawelt — first-class graphic journeys](trawelt.com-DESIGN.md) — https://refero.design/styles/ab160c7f-7578-470a-be34-dc2f5f7f37ac
+- [Trigger.dev — neon workbench cinema](trigger.dev-DESIGN.md) — https://refero.design/styles/9ab201b2-f4bb-47ad-be49-6a0baa907435
+- [Tripsy — pocket-sized product theatre](tripsy.app-DESIGN.md) — https://refero.design/styles/dd279c6b-cecf-4bae-9e98-ba25986792f4
+- [Turso — mint-lit machinery](turso.tech-DESIGN.md) — https://refero.design/styles/9db9d621-acc9-42b7-bfff-efad81836a25
+- [Two Create — objects at exhibition scale](twocreate.com-DESIGN.md) — https://refero.design/styles/25071716-24c6-4abd-9e24-5a76937c4145
+- [Typeform — conversational product theatre](typeform.com-DESIGN.md) — https://refero.design/styles/9e8219b0-9a07-4c30-845d-05b78bb3fc0b
+- [Typewolf — a typographer’s sales letter](typewolf.com-DESIGN.md) — https://refero.design/styles/861969eb-0de8-427b-aff3-abadd210ea77
+- [Udemy — human momentum in purple](udemy.com-DESIGN.md) — https://refero.design/styles/4e47d98e-7294-44ee-872d-855e0b39852f
+- [Ulysses — charcoal with a yellow wink](ulysses.app-DESIGN.md) — https://refero.design/styles/3e847316-a9f1-40bb-a8c8-df51b293ecc4
+- [Umbrel — domestic computing cinema](umbrel.com-DESIGN.md) — https://refero.design/styles/487d7c13-b3e1-4fe5-ba70-cb55473f7678
+- [Unicorn Studio — violet light playground](unicorn.studio-DESIGN.md) — https://refero.design/styles/77c02a41-9c75-46a0-8abc-699dae657399
+- [Unknown, Untitled — objects at editorial scale](unknown-untitled.com-DESIGN.md) — https://refero.design/styles/27cdae81-bc01-4303-8d7c-76e2a229da51
+- [Until Labs — science with soft edges](untillabs.com-DESIGN.md) — https://refero.design/styles/3b3b73b8-59ec-4f70-82f7-95548a2e5414
+- [Upstash — mint-powered infrastructure](upstash.com-DESIGN.md) — https://refero.design/styles/2ff1af18-7b98-4a8d-8d73-e83d8319ace2
+- [User Interviews — serif meets doodle](userinterviews.com-DESIGN.md) — https://refero.design/styles/ba9006be-3a93-4a83-a1f3-e9f5ce46019e
+- [v0 — a gallery of possibilities](v0.app-DESIGN.md) — https://refero.design/styles/0edeaec0-cd85-4d72-8ded-6200a917e7c7
+- [Val Town — a hand-drawn workshop](val.town-DESIGN.md) — https://refero.design/styles/bb3255cf-a87c-46fc-ba06-c57444f60f21
+- [VanMoof — engineered for the street](vanmoof.com-DESIGN.md) — https://refero.design/styles/bf69e2d9-754b-4dc5-b9a8-0ae4c578da78
+- [Vapi — forest speed, machine markings](vapi.ai-DESIGN.md) — https://refero.design/styles/4f6ccefd-40c9-4346-9ab0-a47f747fc413
+- [Vectary — connected objects on display](vectary.com-DESIGN.md) — https://refero.design/styles/8877c938-12e0-4257-8a86-d6fd9973a092
+- [Vercel — infrastructure as sculpture](vercel.com-DESIGN.md) — https://refero.design/styles/15e8dcf5-17da-4012-9326-f9e8bbca5c4d
+- [Vessa — dithered working canvas](vessa.design-DESIGN.md) — https://refero.design/styles/86620281-bb21-4dd5-997f-bdad958f5b68
+- [visitors.now — friendly instruments, lavender landscapes](visitors.now-DESIGN.md) — https://refero.design/styles/0b922b9d-d7c2-48a0-a5e0-f42db851cb90
+- [Visual — editorial machine dreams](visual.app-DESIGN.md) — https://refero.design/styles/c8ce6661-eca3-418a-8ad5-78a0da5af2f6
+- [VITURE — objects in electric orbit](viture.com-DESIGN.md) — https://refero.design/styles/78d475b6-c1c5-4750-85e1-77fc3d3543e9
+- [Vivid+Co — prismatic manifesto](vividand.co-DESIGN.md) — https://refero.design/styles/7910988e-cdc2-4b60-b878-7f05d0cc3508
+- [Vizcom — sketch into substance](vizcom.com-DESIGN.md) — https://refero.design/styles/7a3037ee-a341-4441-b2f1-68cc4442dee3
+- [Voiceflow — editorial landscapes, working systems](voiceflow.com-DESIGN.md) — https://refero.design/styles/935d794b-3ba4-48eb-94e2-a2546d7a93e2
+- [Voicenotes — painted skies, practical promises](voicenotes.com-DESIGN.md) — https://refero.design/styles/601f2efd-99e1-4750-9a31-6cb947ed8c45
+- [VSCO — craft in color blocks](vsco.co-DESIGN.md) — https://refero.design/styles/13e9e81e-5f6f-4155-aab6-46447811a48a
+- [Vusion — sunshine meets execution](inthememory.com-DESIGN.md) — https://refero.design/styles/c235d547-c4a2-4fef-b3b2-c3ae0c4c0c6d
+- [V–A–C — a wired cultural index](v-a-c.org-DESIGN.md) — https://refero.design/styles/f8a0de9f-438a-442f-b7d4-5e48e977be96
+- [Walden — objects in stillness](walden.us-DESIGN.md) — https://refero.design/styles/c6f2c718-4cef-4e20-bc4b-448ea995a50c
+- [Wallpaper Projects — material meets monument](wallpaperprojects.com-DESIGN.md) — https://refero.design/styles/e89987d8-884d-429d-8c64-949e5ec68298
+- [Warp — executable field notes](warp.dev-DESIGN.md) — https://refero.design/styles/927152b9-0309-47aa-aeb4-06a4c1b946ef
+- [Wealthsimple — money as sculpture](wealthsimple.com-DESIGN.md) — https://refero.design/styles/c256c455-4bb9-4ff2-87a2-93cb6c5c8c12
+- [Weav — ribboned color, human tools](weav.com-DESIGN.md) — https://refero.design/styles/f10dec81-c1c7-42e2-92f4-1659765fe5e1
+- [Weaviate — luminous wireframe gardens](weaviate.io-DESIGN.md) — https://refero.design/styles/71fa60a6-6c34-48d9-9dd6-eb5998a2da25
+- [Webflow — blueprints meet theatre](webflow.com-DESIGN.md) — https://refero.design/styles/98d6a29f-07d9-4938-95da-292fb3fc49ab
+- [Websmith — cream canvas, vivid proof](websmith.studio-DESIGN.md) — https://refero.design/styles/a08bbdbe-8a9f-4ca2-9346-9b30fd6ffc27
+- [WhatsApp — everyday closeness, vivid green](whatsapp.com-DESIGN.md) — https://refero.design/styles/62fda8fb-276b-4e38-a3e5-ed58d3e7fcb2
+- [Whimsical — ideas in soft landscapes](whimsical.com-DESIGN.md) — https://refero.design/styles/1f98f243-4952-45e6-b5b3-b5bf60171417
+- [Whop — ambition made tangible](whop.com-DESIGN.md) — https://refero.design/styles/840695c5-1482-4b1e-8866-d28d827e7080
+- [Wise — heavyweight everyday optimism](wise.com-DESIGN.md) — https://refero.design/styles/da2edc37-9f8a-4567-b989-88db72070756
+- [Wispr Flow — words in motion](wisprflow.ai-DESIGN.md) — https://refero.design/styles/b7388347-98fb-43bc-b695-3a8a042b2f0e
+- [Wonder — the luminous workbench](wonder.design-DESIGN.md) — https://refero.design/styles/5f1a84aa-ff5b-4f23-a4fb-9c4cdd08da36
+- [Workflow — a designer’s white canvas](workflow.design-DESIGN.md) — https://refero.design/styles/c5631844-fadb-4aa0-a4ef-8c79f1165303
+- [Workleap — intelligence in flowing ribbons](workleap.com-DESIGN.md) — https://refero.design/styles/7283e256-e477-4f39-ad6b-96064ee11680
+- [Worth — pastel word sculpture](worth.agency-DESIGN.md) — https://refero.design/styles/848e9411-c77d-4b5d-92bb-952a6e771c2f
+- [WOUQ — sculptural digital editorial](wearewouq.com-DESIGN.md) — https://refero.design/styles/eabb311e-6f19-49e4-882a-2c6931d5a5b1
+- [WRITER — luminous work on black](writer.com-DESIGN.md) — https://refero.design/styles/3cb0cc69-6cad-45ca-9c8c-178f039c9bb1
+- [Wynde — bold utility, playful layers](wynde.io-DESIGN.md) — https://refero.design/styles/b005b71a-8151-4ce8-a640-4c1a42b32f92
+- [X — monochrome product theater](x.com-DESIGN.md) — https://refero.design/styles/7aaee53d-8493-4618-968d-3e039c5b315c
+- [x.ai — laboratory meets image studio](x.ai-DESIGN.md) — https://refero.design/styles/c3722d79-863e-4461-b390-cb6c6b14d17e
+- [Yellowbird — sunshine with a bite](yellowbirdfoods.com-DESIGN.md) — https://refero.design/styles/17c67636-cb35-4cfc-899a-78f7dcda6e9c
+- [Yuga — pixel-field bravado](yuga.com-DESIGN.md) — https://refero.design/styles/2122a29f-33be-41e4-952c-a72cf0688177
+- [Yung Studio — experiments on black](yung.studio-DESIGN.md) — https://refero.design/styles/a4805251-3023-4d4f-b363-83862a75ba46
+- [Zapier — pastoral systems editorial](zapier.com-DESIGN.md) — https://refero.design/styles/11726bcf-00a5-4d1a-a00f-57296db677c9
+- [Zed — a ruled workbench](zed.dev-DESIGN.md) — https://refero.design/styles/e2010bdd-9e68-4467-970d-2b759356b5b8
+- [Zendesk — human warmth, electric lime](zendesk.com-DESIGN.md) — https://refero.design/styles/5faa8caf-af3b-4cf9-a784-407a15c2347f
+- [Zeus Jones — meaning in motion](zeusjones.com-DESIGN.md) — https://refero.design/styles/6151c9d4-5059-4ae0-9007-d9128207ec65
+- [Zipline — skyward human momentum](zipline.com-DESIGN.md) — https://refero.design/styles/7cd4a78b-5225-42bf-b5ed-70e4bba389fa
